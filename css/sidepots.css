@@ -1,5 +1,9 @@
-#cut {
+.cut {
   color: red;
+}
+
+.menu-list {
+  list-style-type: none;
 }
 
 img {
