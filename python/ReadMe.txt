@@ -10,3 +10,4 @@ Terminal Commands:
 // Add scores to "scores.txt"
     ./run.sh    
 
+TEST TEST TEST
