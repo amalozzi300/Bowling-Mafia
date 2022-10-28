@@ -1,0 +1,47 @@
+GAME 1:
+<li>Ken Moore: 284</li>
+<li>Tommy McCall: 270</li>
+<li>Craig Auerbach: 266</li>
+<li>Al Perruzzi: 259</li>
+<li>Darrell Merrill: 251</li>
+<li>Thomas McLaughlin: 244</li>
+<li>Martin Stephens: 237</li>
+<li>Jacob Oliva: 233</li>
+<li>Drew Washington: 233</li>
+<li>Jack Townsell: 226</li>
+<li>Cathy Crumb: 225</li>
+<li>Travis Rauschenberg: 211</li>
+<li>Al Napier: 198</li>
+<li>Jackie Alsup: 197</li>
+
+GAME 2:
+<li>Thomas McLaughlin: 255</li>
+<li>Cathy Crumb: 253</li>
+<li>Jacob Oliva: 251</li>
+<li>Drew Washington: 250</li>
+<li>Jackie Alsup: 250</li>
+<li>Jack Townsell: 244</li>
+<li>Ken Moore: 243</li>
+<li>Al Napier: 238</li>
+<li>Al Perruzzi: 220</li>
+<li>Darrell Merrill: 217</li>
+<li>Travis Rauschenberg: 210</li>
+<li>Craig Auerbach: 197</li>
+<li>Martin Stephens: 192</li>
+<li>Tommy McCall: 191</li>
+
+GAME 3:
+<li>Jackie Alsup: 292</li>
+<li>Jack Townsell: 288</li>
+<li>Thomas McLaughlin: 263</li>
+<li>Craig Auerbach: 262</li>
+<li>Al Perruzzi: 249</li>
+<li>Ken Moore: 245</li>
+<li>Tommy McCall: 245</li>
+<li>Drew Washington: 242</li>
+<li>Jacob Oliva: 236</li>
+<li>Martin Stephens: 233</li>
+<li>Travis Rauschenberg: 223</li>
+<li>Al Napier: 219</li>
+<li>Cathy Crumb: 204</li>
+<li>Darrell Merrill: 201</li>
