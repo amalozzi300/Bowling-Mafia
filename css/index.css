@@ -45,13 +45,19 @@ body {
 
 .update-box {
   color: white;
-  margin-top: 20px;
+  text-align: center;
+  border: 2px solid white;
+  margin-top: 50px;
+  padding: 10px;
 }
 
 .update-box h3 {
-  font-size: 25px;
+  font-size: 23px;
   text-decoration: underline;
-  text-align: center;
   padding: 0;
   margin: 5px;
+}
+
+.update-box p {
+  font-size: 18px;
 }
