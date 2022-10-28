@@ -1,0 +1,221 @@
+20
+Justin Kilam
+45
+192
+207
+168
+Jackie Alsup
+5
+192
+245
+287
+
+Jack Townsell
+21
+205
+223
+267
+Darrell Merrill
+49
+202
+168
+152
+
+Ted Funk
+15
+266
+192
+255
+Al Napier
+30
+168
+208
+189
+
+Drew Washington
+5
+228
+245
+237
+Jack Townsell
+21
+205
+223
+267
+
+Jeremy Bruno
+34
+152
+213
+185
+Thomas McLaughlin
+11
+233
+244
+252
+
+Justin Kilam
+45
+192
+207
+168
+Craig Auerbach
+4
+262
+193
+258
+
+Martin Stephens
+1
+236
+191
+232
+Jackie Alsup
+5
+192
+245
+287
+
+Tommy McCall
+73
+197
+118
+172
+Darrell Merrill
+49
+202
+168
+152
+
+Derick Proulx
+2
+246
+179
+200
+Eric Thorn
+52
+157
+165
+233
+
+Derick Proulx
+2
+246
+179
+200
+Eddie Fleischaker
+22
+194
+234
+191
+
+Eric Thorn
+52
+157
+165
+233
+Nichole Townsell
+54
+180
+146
+183
+
+Derick Proulx
+2
+246
+179
+200
+Jackie Alsup
+5
+192
+245
+287
+
+Eddie Fleischaker
+22
+194
+234
+191
+Travis Rauschenberg
+40
+171
+170
+183
+
+Thomas McLaughlin
+11
+233
+244
+252
+Drew Washington
+5
+228
+245
+237
+
+Craig Auerbach
+4
+262
+193
+258
+Cathy Crumb
+27
+198
+226
+177
+
+Travis Rauschenberg
+40
+171
+170
+183
+Jeremy Bruno
+34
+152
+213
+185
+
+Al Napier
+30
+168
+208
+189
+Martin Stephens
+1
+236
+191
+232
+
+Nichole Townsell
+54
+180
+146
+183
+Tommy McCall
+73
+197
+118
+172
+
+Jackie Alsup
+5
+192
+245
+287
+Jacob Oliva
+29
+204
+222
+207
+
+Ted Funk
+15
+266
+192
+255
+Eric Thorn
+52
+157
+165
+233
+
