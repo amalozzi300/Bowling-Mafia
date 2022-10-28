@@ -9,5 +9,3 @@ Terminal Commands:
 // Repeat following for each game:
 // Add scores to "scores.txt"
     ./run.sh    
-
-TEST TEST TEST
