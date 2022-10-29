@@ -46,7 +46,7 @@ body {
 .update-box {
   color: white;
   text-align: center;
-  border: 2px solid white;
+  /* border: 2px solid white; */
   margin-top: 50px;
   padding: 10px;
 }
@@ -60,4 +60,50 @@ body {
 
 .update-box p {
   font-size: 18px;
+}
+
+.past-results-box {
+  color: white;
+  text-align: center;
+  border: 2px solid white;
+  margin-top: 50px;
+  padding: 10px;
+}
+
+.past-results-box h3 {
+  font-size: 23px;
+  text-decoration: underline;
+  padding: 0;
+  margin: 5px;
+}
+
+.past-results-box section {
+  display: inline-block;
+  margin: 20px;
+}
+
+.past-tuesday {
+  background-color: rgb(2, 2, 200);
+}
+
+.past-wednesday {
+  background-color: rgb(200, 0, 0);
+}
+
+.past-tuesday, .past-wednesday {
+  display: inline-block;
+  font-size: 18px;
+  text-align: left;
+  width: 47%;
+  padding: 10px;
+}
+
+.past-tuesday h3, .past-wednesday h3 {
+  font-size: 20px;
+  text-align: center;
+}
+
+.past-elim {
+  width: 27%;
+  padding: 10px;
 }
