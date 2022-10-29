@@ -109,15 +109,15 @@ body {
 @media only screen and (max-width: 1500px) {
   .past-tuesday, .past-wednesday {
     display: block;
-    width: 95%;
+    width: 90%;
   }
 
   .past-tuesday {
-    margin: 50px 10px 0 10px;
+    margin: 50px 5px 0 5px;
   }
 
   .past-wednesday {
-    margin: 10px;
+    margin: 5px;
   }
 }
 
