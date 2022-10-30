@@ -124,7 +124,7 @@ body {
   }
 
   .past-tuesday, .past-wednesday {
-    display: block;
+    display: table;
     border: none;
     width: 90%;
   }
