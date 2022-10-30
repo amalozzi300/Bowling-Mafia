@@ -137,6 +137,11 @@ body {
   .past-wednesday {
     margin: 5px;
   }
+
+  .game1, .game2, .game3 {
+    display: table-cell;
+    width: 30%;
+  }
 }
 
 .past-elim {
