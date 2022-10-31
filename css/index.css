@@ -91,6 +91,14 @@
   .game1, .game2, .game3 {
     border: 2px solid yellow;
   }
+
+  .game1 {
+    border-right: none;
+  }
+
+  .game3 {
+    border-left: none;
+  }
 }
 
 .past-elim {
