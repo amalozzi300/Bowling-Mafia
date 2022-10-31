@@ -87,6 +87,10 @@
     width: 101.22%;
     margin: 5px;
   }
+
+  .game1, .game2, .game3 {
+    border: 2px solid yellow;
+  }
 }
 
 .past-elim {
