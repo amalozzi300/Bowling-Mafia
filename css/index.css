@@ -89,15 +89,23 @@
   }
 
   .game1, .game2, .game3 {
-    border: 2px solid yellow;
+    border-top: 2px solid yellow;
+    border-bottom: 2px solid yellow;
   }
 
   .game1 {
-    border-right: none;
+    border-left: 2px solid yellow;
+    border-right: 1px solid yellow;
+  }
+
+  .game2 {
+    border-left: 1px solid yellow;
+    border-right: 1px solid yellow;
   }
 
   .game3 {
-    border-left: none;
+    border-left: 1px solid yellow;
+    border-right: 2px solid yellow;
   }
 }
 
