@@ -77,11 +77,11 @@
 
   .past-tuesday, .past-wednesday {
     display: table;
-    border: 2px solid purple;
+    border: 2px solid white;
   }
 
   .past-tuesday {
-    width: 101.18%;
+    width: 101.2%;
     margin: 10px 5px 5px 5px;
   }
 
