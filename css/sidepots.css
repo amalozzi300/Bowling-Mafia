@@ -56,3 +56,25 @@
   text-decoration: underline;
   text-align: center;
 }
+
+.sp-nav-bar a {
+  display: inline-block;
+  border: 2px solid yellow;
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: none;
+  text-align: center;
+  width: 32%;
+  height: 25px;
+  margin: 10px 3px 10px 5px;
+  cursor: pointer;
+}
+
+.last-week {
+  text-align: center;
+}
+
+.last-week h4 {
+  text-decoration: underline;
+  margin-bottom: -5px;
+}
