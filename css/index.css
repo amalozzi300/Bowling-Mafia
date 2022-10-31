@@ -19,10 +19,8 @@
 .past-results-box {
   text-align: center;
   width: 101.15%;
-  margin: 0 0 -60px -20px;
-  margin-top: 0;
-  margin-bottom: -60px;
   padding: 10px;
+  margin: 0 0 -60px -20px;
 }
 
 .past-results-box h3 {
@@ -77,11 +75,11 @@
 
   .past-tuesday, .past-wednesday {
     display: table;
-    border: 2px solid white;
+    border: 2px solid purple;
   }
 
   .past-tuesday {
-    width: 101.31%;
+    width: 101.22%;
     margin: 10px 5px 5px 5px;
   }
 
