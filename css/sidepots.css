@@ -63,6 +63,7 @@
   }
 
   .tuesday-box, .wednesday-box {
+    display: block;
     border: 2px solid yellow;
   }
 
@@ -91,6 +92,7 @@
 }
 
 .last-week {
+  display: inline-block;
   text-align: center;
 }
 
