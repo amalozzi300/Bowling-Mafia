@@ -9,7 +9,7 @@ body {
 
 .banner {
   background: linear-gradient(135deg, rgb(200, 0, 0) 30%, rgb(2, 2, 200) 75%);
-  border: 2px solid white;
+  border: 2px solid yellow;
   text-align: center;
   width: 100%;
   padding: 10px;
@@ -29,7 +29,7 @@ body {
 
 .nav-bar a {
   display: inline-block;
-  border: 2px solid white;
+  border: 2px solid yellow;
   font-size: 18px;
   font-weight: bold;
   list-style: none;
