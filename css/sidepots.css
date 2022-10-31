@@ -78,3 +78,23 @@
   text-decoration: underline;
   margin-bottom: -5px;
 }
+
+@media only screen and (max-width: 1300px) {
+  .columns {
+    display: inline-block;
+  }
+
+  .tuesday-box, .wednesday-box {
+    border: 2px solid yellow;
+  }
+
+  .tuesday-box {
+    width: 101.22%;
+    margin: 10px 5px 5px 5px;
+  }
+
+  .wednesday-box {
+    width: 100%;
+    margin: 5px;
+  }
+}
