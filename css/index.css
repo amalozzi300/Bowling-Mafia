@@ -77,17 +77,25 @@
 
   .past-tuesday, .past-wednesday {
     display: table;
-    border: 2px solid white;
+    border: 2px solid purple;
   }
 
   .past-tuesday {
-    width: 101.15%;
+    width: 101.18%;
     margin: 10px 5px 5px 5px;
   }
 
   .past-wednesday {
     width: 100%;
     margin: 5px;
+  }
+
+  .game1 {
+    margin-left: 5px;
+  }
+
+  .game3 {
+    margin-right: 5px;
   }
 }
 
