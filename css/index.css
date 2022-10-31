@@ -1,55 +1,8 @@
-* {
-  box-sizing: border-box;
-}
-
-body {
-  background-color: black;
-}
-
-.banner {
-  background: linear-gradient(135deg, rgb(200, 0, 0) 30%, rgb(2, 2, 200) 75%);
-  color: white;
-  border: 2px solid white;
-  text-align: center;
-  width: 100%;
-  padding: 10px;
-}
-
-.banner h1 {
-  font-size: 50px;
-  padding: 0;
-  margin: 5px;
-}
-
-.banner h3 {
-  font-size: 25px;
-  padding: 0;
-  margin: 5px;
-}
-
-.nav-bar a {
-  display: inline-block;
-  border: 2px solid white;
-  color: white;
-  font-size: 18px;
-  font-weight: bold;
-  list-style: none;
-  text-decoration: none;
-  text-align: center;
-  width: 33%;
-  height: 25px;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  cursor: pointer;
-}
-
 .update-box {
-  color: white;
   text-align: center;
-  /* border: 2px solid white; */
   width: 100%;
-  margin-top: 40px;
   padding: 10px;
+  margin-top: 40px;
 }
 
 .update-box h3 {
@@ -64,10 +17,9 @@ body {
 }
 
 .past-results-box {
-  color: white;
   text-align: center;
-  /* border: 2px solid white; */
-  width: 100%;
+  width: 102.12%;
+  margin: 0 0 -60px -20px;
   margin-top: 0;
   margin-bottom: -60px;
   padding: 10px;
@@ -118,20 +70,18 @@ body {
   margin-bottom: 0;
 }
 
-@media only screen and (max-width: 1500px) {
+@media only screen and (max-width: 1300px) {
   .columns {
     display: inline-block;
   }
 
   .past-tuesday, .past-wednesday {
-    background-color: green;
     display: table;
     border: none;
     width: 100%;
   }
 
   .past-tuesday {
-    width: 100%;
     margin: 10px 5px 5px 5px;
   }
 
@@ -167,10 +117,6 @@ body {
   font-size: 20px;
   font-weight: bold;
   text-align: center;
-}
-
-.advance {
-  color: white;
 }
 
 .cut {
