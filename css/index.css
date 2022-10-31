@@ -69,6 +69,10 @@
 }
 
 @media only screen and (max-width: 1300px) {
+  .past-results-box h3 {
+    margin: 10px;
+  }
+  
   .columns {
     display: inline-block;
   }

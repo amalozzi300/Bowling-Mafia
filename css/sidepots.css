@@ -1,18 +1,18 @@
-.collection-box {
+.unclaimed-box {
   text-align: center;
   width: 100%;
   padding: 10px;
   margin-top: 40px;
 }
 
-.collection-box h3 {
+.unclaimed-box h3 {
   font-size: 25px;
   text-decoration: underline;
   padding: 0;
   margin: 5px;
 }
 
-.collection-box p {
+.unclaimed-box p {
   font-size: 18px;
 }
 
