@@ -70,7 +70,7 @@
 
 @media only screen and (max-width: 1300px) {
   .columns {
-    display: inline-block;
+    display: block;
   }
 
   .past-tuesday, .past-wednesday {
@@ -87,7 +87,7 @@
     width: 101.22%;
     margin: 5px;
   }
-
+  
   .game1, .game2, .game3 {
     border-top: 2px solid yellow;
     border-bottom: 2px solid yellow;
