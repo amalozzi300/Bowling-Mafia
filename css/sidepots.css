@@ -77,6 +77,10 @@
     width: 101.22%;
     margin: 5px;
   }
+
+  .tuesday-box span {
+    display: default;
+  }
 }
 
 .sp-nav-bar {
