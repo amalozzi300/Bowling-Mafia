@@ -78,7 +78,7 @@
     margin: 5px;
   }
 
-  .tuesday-box span {
+  .tuesday-box span, .wednesday-box span {
     display: default;
   }
 }
