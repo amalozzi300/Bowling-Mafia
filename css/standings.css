@@ -17,7 +17,7 @@
   font-weight: bold;
 }
 
-.elim-standings {
+.standings {
   background: linear-gradient(90deg, rgb(2, 2, 200) 30%, rgb(200, 0, 0) 75%);
   border: 2px solid yellow;
   text-align: center;
@@ -26,12 +26,12 @@
   margin: 20px 0 0 0;
 }
 
-.elim-standings h3 {
+.standings h3 {
   font-size: 27px;
   text-decoration: underline;
 }
 
-.elim-standings p {
+.standings p {
   display: inline-block;
   font-size: 20px;
   text-align: center;
