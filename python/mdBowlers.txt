@@ -1,201 +1,71 @@
-40
-Jeremy Bruno
-34
+14
+M. Miller
+18
 0
 0
 0
-Jeremy Bruno
-34
+J. Alsup
+32
 0
 0
 0
-Jackie Alsup
-5
-0
-0
-0
-Jackie Alsup
-5
-0
-0
-0
-Jackie Alsup
-5
-0
-0
-0
-Jackie Alsup
-5
-0
-0
-0
-Derick Proulx
-2
-0
-0
-0
-Derick Proulx
-2
-0
-0
-0
-Derick Proulx
-2
-0
-0
-0
-Jack Townsell
-21
-0
-0
-0
-Jack Townsell
-21
-0
-0
-0
-Nichole Townsell
-54
-0
-0
-0
-Nichole Townsell
-54
-0
-0
-0
-Tommy McCall
-73
-0
-0
-0
-Tommy McCall
-73
-0
-0
-0
-Thomas McLaughlin
-11
-0
-0
-0
-Thomas McLaughlin
-11
-0
-0
-0
-Travis Rauschenberg
+Z. Bullock
 40
 0
 0
 0
-Travis Rauschenberg
+Z. Bullock
 40
 0
 0
 0
-Justin Kilam
-45
-0
-0
-0
-Justin Kilam
-45
-0
-0
-0
-Martin Stephens
-1
-0
-0
-0
-Martin Stephens
-1
-0
-0
-0
-Craig Auerbach
-4
-0
-0
-0
-Craig Auerbach
-4
-0
-0
-0
-Eddie Fleischaker
-22
-0
-0
-0
-Eddie Fleischaker
-22
-0
-0
-0
-Drew Washington
-5
-0
-0
-0
-Drew Washington
-5
-0
-0
-0
-Cathy Crumb
-27
-0
-0
-0
-Ted Funk
-15
-0
-0
-0
-Ted Funk
-15
-0
-0
-0
-Jacob Oliva
-29
-0
-0
-0
-Eric Thorn
-52
-0
-0
-0
-Eric Thorn
-52
-0
-0
-0
-Eric Thorn
-52
-0
-0
-0
-Darrell Merrill
-49
-0
-0
-0
-Darrell Merrill
-49
-0
-0
-0
-Al Napier
+M. Stephens
 30
 0
 0
 0
-Al Napier
+M. Stephens
 30
+0
+0
+0
+W. Dobbs
+24
+0
+0
+0
+E. Thorn
+52
+0
+0
+0
+E. Thorn
+52
+0
+0
+0
+E. Thorn
+52
+0
+0
+0
+E. Thorn
+52
+0
+0
+0
+J. Besley
+47
+0
+0
+0
+T. McLaughlin
+19
+0
+0
+0
+T. McLaughlin
+19
 0
 0
 0
