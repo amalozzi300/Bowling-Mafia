@@ -9,14 +9,14 @@ GAME 1:
 <li>A. Malozzi: 201</li>
 
 GAME 2:
-<li>J. Besley: 47</li>
-<li>Z. Bullock: 40</li>
-<li>J. Alsup: 32</li>
-<li>M. Stephens: 30</li>
-<li>A. Perruzzi: 29</li>
-<li>T. McLaughlin: 19</li>
-<li>M. Miller: 18</li>
-<li>A. Malozzi: 7</li>
+<li>J. Alsup: 268</li>
+<li>A. Perruzzi: 242</li>
+<li>J. Besley: 241</li>
+<li>T. McLaughlin: 224</li>
+<li>A. Malozzi: 220</li>
+<li>Z. Bullock: 213</li>
+<li>M. Miller: 195</li>
+<li>M. Stephens: 195</li>
 
 GAME 3:
 <li>J. Besley: 47</li>

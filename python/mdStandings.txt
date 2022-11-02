@@ -1,7 +1,7 @@
-<li>J. Alsup + M. Stephens: 572</li>
-<li>Z. Bullock + M. Stephens: 561</li>
-<li>M. Miller + T. McLaughlin: 498</li>
-<li>E. Thorn + T. McLaughlin: 496</li>
-<li>Z. Bullock + E. Thorn: 475</li>
-<li>W. Dobbs + E. Thorn: 474</li>
-<li>E. Thorn + J. Besley: 429</li>
+<li>J. Alsup + M. Stephens: 1035</li>
+<li>Z. Bullock + M. Stephens: 969</li>
+<li>E. Thorn + T. McLaughlin: 943</li>
+<li>M. Miller + T. McLaughlin: 917</li>
+<li>Z. Bullock + E. Thorn: 911</li>
+<li>W. Dobbs + E. Thorn: 895</li>
+<li>E. Thorn + J. Besley: 893</li>

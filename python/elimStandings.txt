@@ -10,13 +10,13 @@ GAME 1:
 <li>A. Malozzi: 201</li>
 
 GAME 2:
-<li>Z. Bullock: 40</li>
-<li>J. Alsup: 32</li>
+<li>J. Alsup: 268</li>
+<li>T. McLaughlin: 224</li>
 --------------------------------------
-<li>M. Stephens: 30</li>
-<li>T. McLaughlin: 19</li>
+<li>Z. Bullock: 213</li>
+<li>M. Stephens: 195</li>
 
 GAME 3:
-<li>Z. Bullock: 40</li>
 <li>J. Alsup: 32</li>
+<li>T. McLaughlin: 19</li>
 --------------------------------------
