@@ -3,76 +3,76 @@ Z. Bullock
 40
 226
 173
-0
+255
 M. Stephens
 30
 265
 165
-0
+224
 
 W. Dobbs
 24
 241
 174
-0
+182
 E. Thorn
 52
 157
 171
-0
+161
 
 J. Alsup
 32
 245
 236
-0
+230
 M. Stephens
 30
 265
 165
-0
+224
 
 E. Thorn
 52
 157
 171
-0
+161
 T. McLaughlin
 19
 268
 205
-0
+216
 
 M. Miller
 18
 193
 177
-0
+245
 T. McLaughlin
 19
 268
 205
-0
+216
 
 Z. Bullock
 40
 226
 173
-0
+255
 E. Thorn
 52
 157
 171
-0
+161
 
 E. Thorn
 52
 157
 171
-0
+161
 J. Besley
 47
 173
 194
-0
+170
 

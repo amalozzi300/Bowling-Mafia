@@ -17,6 +17,12 @@ GAME 2:
 <li>M. Stephens: 195</li>
 
 GAME 3:
-<li>J. Alsup: 32</li>
-<li>T. McLaughlin: 19</li>
+<li>J. Alsup: 262</li>
+<li>T. McLaughlin: 235</li>
 --------------------------------------
+
+
+<li>Z. Bullock: 295</li>
+<li>J. Alsup: 262</li>
+<li>T. McLaughlin: 235</li>
+<li>J. Besley: 217</li>
