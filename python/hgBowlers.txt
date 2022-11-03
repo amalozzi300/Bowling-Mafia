@@ -2,75 +2,75 @@
 T. McLaughlin
 7
 232
-0
+235
 0
 D. Crumb
 20
 244
-0
+257
 0
 C. Crumb
 27
 170
-0
+210
 0
 D. Washington
 3
 192
-0
+226
 0
 J. Townsell
 18
 199
-0
+213
 0
 M. DeKeyser
 37
 128
-0
+194
 0
 J. Alsup
 3
 212
-0
+191
 0
 M. Stephens
 2
 212
-0
+196
 0
 C. Auerbach
 3
 231
-0
+238
 0
 A. Perruzzi
 45
 169
-0
+182
 0
 T. Rauschenberg
 41
 179
-0
+192
 0
 K. Moore
 38
 216
-0
+185
 0
 D. Merrill
 49
 191
-0
+164
 0
 A. Napier
 30
 179
-0
+190
 0
 D. Hargrett
 18
 187
-0
+206
 0

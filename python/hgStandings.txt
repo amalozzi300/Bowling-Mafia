@@ -16,21 +16,21 @@ GAME 1:
 <li>M. DeKeyser: 165</li>
 
 GAME 2:
-<li>D. Merrill: 49</li>
-<li>A. Perruzzi: 45</li>
-<li>T. Rauschenberg: 41</li>
-<li>K. Moore: 38</li>
-<li>M. DeKeyser: 37</li>
-<li>A. Napier: 30</li>
-<li>C. Crumb: 27</li>
-<li>D. Crumb: 20</li>
-<li>J. Townsell: 18</li>
-<li>D. Hargrett: 18</li>
-<li>T. McLaughlin: 7</li>
-<li>J. Alsup: 3</li>
-<li>D. Washington: 3</li>
-<li>C. Auerbach: 3</li>
-<li>M. Stephens: 2</li>
+<li>D. Crumb: 277</li>
+<li>T. McLaughlin: 242</li>
+<li>C. Auerbach: 241</li>
+<li>C. Crumb: 237</li>
+<li>T. Rauschenberg: 233</li>
+<li>J. Townsell: 231</li>
+<li>M. DeKeyser: 231</li>
+<li>D. Washington: 229</li>
+<li>A. Perruzzi: 227</li>
+<li>D. Hargrett: 224</li>
+<li>K. Moore: 223</li>
+<li>A. Napier: 220</li>
+<li>D. Merrill: 213</li>
+<li>M. Stephens: 198</li>
+<li>J. Alsup: 194</li>
 
 GAME 3:
 <li>D. Merrill: 49</li>

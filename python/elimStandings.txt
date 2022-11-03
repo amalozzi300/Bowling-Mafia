@@ -19,21 +19,21 @@ GAME 1:
 <li>M. DeKeyser: 165</li>
 
 GAME 2:
-<li>T. McCall: 72</li>
-<li>D. Merrill: 49</li>
-<li>T. Rauschenberg: 41</li>
-<li>K. Moore: 38</li>
-<li>D. Crumb: 20</li>
+<li>D. Crumb: 277</li>
+<li>T. McLaughlin: 242</li>
+<li>C. Auerbach: 241</li>
+<li>T. McCall: 235</li>
+<li>T. Rauschenberg: 233</li>
 --------------------------------------
-<li>J. Townsell: 18</li>
-<li>T. McLaughlin: 7</li>
-<li>C. Auerbach: 3</li>
-<li>J. Alsup: 3</li>
+<li>J. Townsell: 231</li>
+<li>K. Moore: 223</li>
+<li>D. Merrill: 213</li>
+<li>J. Alsup: 194</li>
 
 GAME 3:
 <li>T. McCall: 72</li>
-<li>D. Merrill: 49</li>
 <li>T. Rauschenberg: 41</li>
---------------------------------------
-<li>K. Moore: 38</li>
 <li>D. Crumb: 20</li>
+--------------------------------------
+<li>T. McLaughlin: 7</li>
+<li>C. Auerbach: 3</li>
