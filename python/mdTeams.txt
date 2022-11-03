@@ -1,78 +1,254 @@
-7
-Z. Bullock
-40
-226
-173
-255
+23
+T. Funk
+12
+207
+0
+0
 M. Stephens
-30
-265
-165
-224
+2
+212
+0
+0
 
-W. Dobbs
-24
-241
-174
-182
-E. Thorn
-52
-157
-171
-161
+M. Fleischaker
+34
+203
+0
+0
+C. Crumb
+27
+170
+0
+0
+
+M. DeKeyser
+37
+128
+0
+0
+D. Merrill
+49
+191
+0
+0
+
+T. Rauschenberg
+41
+179
+0
+0
+M. Fleischaker
+34
+203
+0
+0
+
+A. Napier
+30
+179
+0
+0
+D. Crumb
+20
+244
+0
+0
+
+T. Rauschenberg
+41
+179
+0
+0
+D. Merrill
+49
+191
+0
+0
+
+T. Rauschenberg
+41
+179
+0
+0
+T. McLaughlin
+7
+232
+0
+0
+
+T. Rauschenberg
+41
+179
+0
+0
+J. Bruno
+35
+221
+0
+0
+
+J. Bruno
+35
+221
+0
+0
+T. Funk
+12
+207
+0
+0
+
+C. Auerbach
+3
+231
+0
+0
+T. McLaughlin
+7
+232
+0
+0
+
+M. DeKeyser
+37
+128
+0
+0
+D. Crumb
+20
+244
+0
+0
+
+D. Washington
+3
+192
+0
+0
+M. DeKeyser
+37
+128
+0
+0
+
+J. Townsell
+18
+199
+0
+0
+M. Stephens
+2
+212
+0
+0
+
+M. Fleischaker
+34
+203
+0
+0
+T. McLaughlin
+7
+232
+0
+0
 
 J. Alsup
-32
-245
-236
-230
-M. Stephens
-30
-265
-165
-224
+3
+212
+0
+0
+C. Auerbach
+3
+231
+0
+0
 
-E. Thorn
-52
-157
-171
-161
-T. McLaughlin
-19
-268
-205
-216
-
-M. Miller
-18
-193
-177
-245
-T. McLaughlin
-19
-268
-205
-216
-
-Z. Bullock
-40
-226
-173
-255
-E. Thorn
-52
-157
-171
-161
-
-E. Thorn
-52
-157
-171
-161
-J. Besley
-47
-173
-194
+D. Crumb
+20
+244
+0
+0
+C. Crumb
+27
 170
+0
+0
+
+J. Alsup
+3
+212
+0
+0
+J. Townsell
+18
+199
+0
+0
+
+E. Thorn
+50
+214
+0
+0
+M. Fleischaker
+34
+203
+0
+0
+
+J. Alsup
+3
+212
+0
+0
+M. DeKeyser
+37
+128
+0
+0
+
+T. McLaughlin
+7
+232
+0
+0
+M. DeKeyser
+37
+128
+0
+0
+
+D. Washington
+3
+192
+0
+0
+J. Alsup
+3
+212
+0
+0
+
+A. Napier
+30
+179
+0
+0
+E. Thorn
+50
+214
+0
+0
+
+M. DeKeyser
+37
+128
+0
+0
+C. Crumb
+27
+170
+0
+0
 
