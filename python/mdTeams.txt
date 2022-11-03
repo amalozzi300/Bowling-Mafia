@@ -3,252 +3,252 @@ T. Funk
 12
 207
 205
-0
+188
 M. Stephens
 2
 212
 196
-0
+224
 
 M. Fleischaker
 34
 203
 167
-0
+161
 C. Crumb
 27
 170
 210
-0
+216
 
 M. DeKeyser
 37
 128
 194
-0
+185
 D. Merrill
 49
 191
 164
-0
+153
 
 T. Rauschenberg
 41
 179
 192
-0
+209
 M. Fleischaker
 34
 203
 167
-0
+161
 
 A. Napier
 30
 179
 190
-0
+150
 D. Crumb
 20
 244
 257
-0
+226
 
 T. Rauschenberg
 41
 179
 192
-0
+209
 D. Merrill
 49
 191
 164
-0
+153
 
 T. Rauschenberg
 41
 179
 192
-0
+209
 T. McLaughlin
 7
 232
 235
-0
+191
 
 T. Rauschenberg
 41
 179
 192
-0
+209
 J. Bruno
 35
 221
 178
-0
+200
 
 J. Bruno
 35
 221
 178
-0
+200
 T. Funk
 12
 207
 205
-0
+188
 
 C. Auerbach
 3
 231
 238
-0
+232
 T. McLaughlin
 7
 232
 235
-0
+191
 
 M. DeKeyser
 37
 128
 194
-0
+185
 D. Crumb
 20
 244
 257
-0
+226
 
 D. Washington
 3
 192
 226
-0
+185
 M. DeKeyser
 37
 128
 194
-0
+185
 
 J. Townsell
 18
 199
 213
-0
+216
 M. Stephens
 2
 212
 196
-0
+224
 
 M. Fleischaker
 34
 203
 167
-0
+161
 T. McLaughlin
 7
 232
 235
-0
+191
 
 J. Alsup
 3
 212
 191
-0
+185
 C. Auerbach
 3
 231
 238
-0
+232
 
 D. Crumb
 20
 244
 257
-0
+226
 C. Crumb
 27
 170
 210
-0
+216
 
 J. Alsup
 3
 212
 191
-0
+185
 J. Townsell
 18
 199
 213
-0
+216
 
 E. Thorn
 50
 214
 186
-0
+193
 M. Fleischaker
 34
 203
 167
-0
+161
 
 J. Alsup
 3
 212
 191
-0
+185
 M. DeKeyser
 37
 128
 194
-0
+185
 
 T. McLaughlin
 7
 232
 235
-0
+191
 M. DeKeyser
 37
 128
 194
-0
+185
 
 D. Washington
 3
 192
 226
-0
+185
 J. Alsup
 3
 212
 191
-0
+185
 
 A. Napier
 30
 179
 190
-0
+150
 E. Thorn
 50
 214
 186
-0
+193
 
 M. DeKeyser
 37
 128
 194
-0
+185
 C. Crumb
 27
 170
 210
-0
+216
 

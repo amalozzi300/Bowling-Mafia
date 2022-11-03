@@ -3,84 +3,84 @@ T. McLaughlin
 7
 232
 235
-0
+191
 D. Crumb
 20
 244
 257
-0
+226
 C. Crumb
 27
 170
 210
-0
+216
 D. Washington
 3
 192
 226
-0
+185
 J. Townsell
 18
 199
 213
-0
+216
 T. McCall
 72
 170
 163
-0
+129
 M. DeKeyser
 37
 128
 194
-0
+185
 J. Alsup
 3
 212
 191
-0
+185
 D. Proulx
 4
 205
 237
-0
+211
 M. Stephens
 2
 212
 196
-0
+224
 C. Auerbach
 3
 231
 238
-0
+232
 T. Rauschenberg
 41
 179
 192
-0
+209
 K. Moore
 38
 216
 185
-0
+179
 D. Merrill
 49
 191
 164
-0
+153
 A. Napier
 30
 179
 190
-0
+150
 JP Morgan
 60
 139
 188
-0
+148
 B. Quandt
 28
 149
 136
-0
+245

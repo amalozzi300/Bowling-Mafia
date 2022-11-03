@@ -31,9 +31,9 @@ GAME 2:
 <li>J. Alsup: 194</li>
 
 GAME 3:
-<li>T. McCall: 72</li>
-<li>T. Rauschenberg: 41</li>
-<li>D. Crumb: 20</li>
+<li>T. Rauschenberg: 250</li>
+<li>D. Crumb: 246</li>
+<li>C. Auerbach: 235</li>
 --------------------------------------
-<li>T. McLaughlin: 7</li>
-<li>C. Auerbach: 3</li>
+<li>T. McCall: 201</li>
+<li>T. McLaughlin: 198</li>
