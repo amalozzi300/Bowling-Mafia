@@ -1,5 +1,5 @@
 class Bowler:
-  def __init__(self, name, hdcp = 0, g1 = 0, g2 = 0, g3 = 0, g4 = 0, g5 = 0):
+  def __init__(self, name, hdcp = 0, g1 = 0, g2 = 0, g3 = 0, g4 = 0, g5 = 0, g6 = 0, g7 = 0, g8 = 0):
     self.name = name
     self.hdcp = hdcp
     self.g1 = g1
@@ -7,6 +7,9 @@ class Bowler:
     self.g3 = g3
     self.g4 = g4
     self.g5 = g5
+    self.g6 = g6
+    self.g7 = g7
+    self.g8 = g8
 
   def __eq__(self, bowler1):
     if self.name == bowler1.name:
@@ -21,10 +24,10 @@ class Bowler:
     return self.Total() < bowler1.Total()
 
   def __str__(self):
-    return f'{self.name}'
+    return f'{self.name}\t\t{self.hdcp}\t\t{self.g1}\t{self.g2}\t{self.g3}\t{self.g4}\t{self.g5}\t{self.g6}\t{self.g7}\t{self.g8}\t--\t{self.Total()}'
 
   def PrintBowler(self):
-    return f'{self.name}{self.hdcp}\n{self.g1}\n{self.g2}\n{self.g3}\n{self.g4}\n{self.g5}'
+    return f'{self.name}{self.hdcp}\n{self.g1}\n{self.g2}\n{self.g3}\n{self.g4}\n{self.g5}\n{self.g6}\n{self.g7}\n{self.g8}'
 
   def Total(self):
     if self.g1 == 0:
@@ -37,8 +40,14 @@ class Bowler:
       return (3 * self.hdcp) + self.g1 + self.g2 + self.g3
     elif self.g5 == 0:
       return (4 * self.hdcp) + self.g1 + self.g2 + self.g3 + self.g4
-    else:
+    elif self.g6 == 0:
       return (5 * self.hdcp) + self.g1 + self.g2 + self.g3 + self.g4 + self.g5
+    elif self.g7 == 0:
+      return (6 * self.hdcp) + self.g1 + self.g2 + self.g3 + self.g4 + self.g5 + self.g6
+    elif self.g8 == 0:
+      return (7 * self.hdcp) + self.g1 + self.g2 + self.g3 + self.g4 + self.g5 + self.g6 + self.g7
+    else:
+      return (8 * self.hdcp) + self.g1 + self.g2 + self.g3 + self.g4 + self.g5 + self.g6 + self.g7 + self.g8
 
   def g1Less(self, bowler1):
     return (self.g1 + self.hdcp) < (bowler1.g1 + bowler1.hdcp)
@@ -55,6 +64,15 @@ class Bowler:
   def g5Less(self, bowler1):
     return(self.g5 + self.hdcp) < (bowler1.g5 + bowler1.hdcp)
 
+  def g6Less(self, bowler1):
+    return(self.g6 + self.hdcp) < (bowler1.g6 + bowler1.hdcp)
+
+  def g7Less(self, bowler1):
+    return(self.g7 + self.hdcp) < (bowler1.g7 + bowler1.hdcp)
+
+  def g8Less(self, bowler1):
+    return(self.g8 + self.hdcp) < (bowler1.g8 + bowler1.hdcp)
+
   def g1Format(self):
     print(f'<li>{self.name}: {(self.g1 + self.hdcp)}</li>')
   
@@ -69,3 +87,12 @@ class Bowler:
 
   def g5Format(self):
     print(f'<li>{self.name}: {(self.g5 + self.hdcp)}</li>')
+
+  def g6Format(self):
+    print(f'<li>{self.name}: {(self.g6 + self.hdcp)}</li>')
+
+  def g7Format(self):
+    print(f'<li>{self.name}: {(self.g7 + self.hdcp)}</li>')
+
+  def g8Format(self):
+    print(f'<li>{self.name}: {(self.g8 + self.hdcp)}</li>')
