@@ -1,76 +1,26 @@
-15
-T. McLaughlin
-7
-232
-235
-191
-D. Crumb
-20
-244
-257
-226
-C. Crumb
-27
-170
-210
-216
-D. Washington
-3
-192
-226
-185
-J. Townsell
-18
-199
-213
-216
-M. DeKeyser
-37
-128
-194
-185
-J. Alsup
-3
-212
-191
-185
+5
 M. Stephens
-2
-212
-196
-224
-C. Auerbach
-3
-231
-238
-232
-A. Perruzzi
-45
-169
-182
-191
-T. Rauschenberg
-41
-179
-192
-209
-K. Moore
-38
-216
-185
-179
+27
+177
+0
+0
+Z. Bullock
+36
+181
+0
+0
+M. Williams
+79
+158
+0
+0
+T. McLaughlin
+16
+193
+0
+0
 D. Merrill
-49
-191
-164
-153
-A. Napier
-30
-179
-190
-150
-D. Hargrett
-18
-187
-206
-201
+59
+203
+0
+0

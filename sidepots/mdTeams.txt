@@ -1,254 +1,56 @@
-23
-T. Funk
-12
-207
-205
-188
-M. Stephens
-2
-212
-196
-224
-
-M. Fleischaker
-34
-203
-167
-161
-C. Crumb
-27
-170
-210
-216
-
-M. DeKeyser
-37
-128
-194
-185
+5
 D. Merrill
-49
-191
-164
-153
-
-T. Rauschenberg
-41
-179
-192
-209
-M. Fleischaker
-34
+59
 203
-167
-161
+0
+0
+D. Proulx
+0
+246
+0
+0
 
-A. Napier
-30
-179
-190
-150
-D. Crumb
-20
-244
-257
-226
-
-T. Rauschenberg
-41
-179
-192
-209
-D. Merrill
-49
-191
-164
-153
-
-T. Rauschenberg
-41
-179
-192
-209
-T. McLaughlin
-7
-232
-235
-191
-
-T. Rauschenberg
-41
-179
-192
-209
-J. Bruno
-35
-221
-178
-200
-
-J. Bruno
-35
-221
-178
-200
-T. Funk
-12
-207
-205
-188
-
-C. Auerbach
-3
-231
-238
-232
-T. McLaughlin
-7
-232
-235
-191
-
-M. DeKeyser
-37
-128
-194
-185
-D. Crumb
-20
-244
-257
-226
-
-D. Washington
-3
-192
-226
-185
-M. DeKeyser
-37
-128
-194
-185
-
-J. Townsell
-18
-199
-213
-216
 M. Stephens
-2
-212
-196
-224
-
-M. Fleischaker
-34
-203
-167
-161
-T. McLaughlin
-7
-232
-235
-191
-
-J. Alsup
-3
-212
-191
-185
-C. Auerbach
-3
-231
-238
-232
-
-D. Crumb
-20
-244
-257
-226
-C. Crumb
 27
-170
-210
-216
+177
+0
+0
+Z. Bullock
+36
+181
+0
+0
 
-J. Alsup
-3
-212
-191
-185
-J. Townsell
-18
-199
-213
-216
+D. Proulx
+0
+246
+0
+0
+Z. Bullock
+36
+181
+0
+0
 
-E. Thorn
-50
-214
-186
-193
-M. Fleischaker
-34
+M. Williams
+79
+158
+0
+0
+D. Merrill
+59
 203
-167
-161
+0
+0
 
-J. Alsup
-3
-212
-191
-185
-M. DeKeyser
-37
-128
-194
-185
-
-T. McLaughlin
-7
-232
-235
-191
-M. DeKeyser
-37
-128
-194
-185
-
-D. Washington
-3
-192
-226
-185
-J. Alsup
-3
-212
-191
-185
-
-A. Napier
-30
-179
-190
-150
-E. Thorn
-50
-214
-186
-193
-
-M. DeKeyser
-37
-128
-194
-185
-C. Crumb
+M. Williams
+79
+158
+0
+0
+M. Stephens
 27
-170
-210
-216
+177
+0
+0
 

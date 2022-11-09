@@ -1,39 +1,14 @@
 GAME 1:
-<li>D. Crumb: 264</li>
-<li>K. Moore: 254</li>
-<li>T. McCall: 242</li>
-<li>D. Merrill: 240</li>
-<li>T. McLaughlin: 239</li>
-<li>C. Auerbach: 234</li>
-<li>T. Rauschenberg: 220</li>
-<li>J. Townsell: 217</li>
-<li>J. Alsup: 215</li>
+<li>D. Merrill: 262</li>
+<li>Z. Bullock: 217</li>
 --------------------------------------
-<li>M. Stephens: 214</li>
-<li>D. Proulx: 209</li>
-<li>A. Napier: 209</li>
-<li>JP Morgan: 199</li>
-<li>C. Crumb: 197</li>
-<li>D. Washington: 195</li>
-<li>B. Quandt: 177</li>
-<li>M. DeKeyser: 165</li>
+<li>T. McLaughlin: 209</li>
+<li>M. Stephens: 204</li>
 
 GAME 2:
-<li>D. Crumb: 277</li>
-<li>T. McLaughlin: 242</li>
-<li>C. Auerbach: 241</li>
-<li>T. McCall: 235</li>
-<li>T. Rauschenberg: 233</li>
+<li>D. Merrill: 59</li>
 --------------------------------------
-<li>J. Townsell: 231</li>
-<li>K. Moore: 223</li>
-<li>D. Merrill: 213</li>
-<li>J. Alsup: 194</li>
+<li>Z. Bullock: 36</li>
 
 GAME 3:
-<li>T. Rauschenberg: 250</li>
-<li>D. Crumb: 246</li>
-<li>C. Auerbach: 235</li>
---------------------------------------
-<li>T. McCall: 201</li>
-<li>T. McLaughlin: 198</li>
+<li>D. Merrill: 59</li>

@@ -1,116 +1,31 @@
-23
-T. McLaughlin
-7
-1
-1
-4
-D. Crumb
-20
-1
-1
-3
-C. Crumb
+6
+M. Stephens
 27
 1
 1
-3
-D. Washington
-3
+2
+Z. Bullock
+36
 1
 1
 2
-J. Townsell
-18
-1
-1
-2
-T. McCall
-72
-1
-0
-0
-M. DeKeyser
-37
-1
-1
-6
-J. Alsup
-3
-1
-1
-4
 D. Proulx
-4
-1
 0
-0
-M. Fleischaker
-34
-0
-0
-4
-J. Bruno
-35
 0
 0
 2
-M. Stephens
-2
-1
-1
-2
-C. Auerbach
-3
-1
-1
-2
-A. Perruzzi
-45
+M. Williams
+79
 0
 1
-0
-T. Rauschenberg
-41
-1
-1
-4
-K. Moore
-38
+2
+T. McLaughlin
+16
 1
 1
 0
 D. Merrill
-49
+59
 1
 1
 2
-A. Napier
-30
-1
-1
-2
-D. Hargrett
-18
-0
-1
-0
-JP Morgan
-60
-1
-0
-0
-E. Thorn
-50
-0
-0
-2
-T. Funk
-12
-0
-0
-2
-B. Quandt
-28
-1
-0
-0

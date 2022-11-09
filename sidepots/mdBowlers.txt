@@ -1,231 +1,51 @@
-46
-T. McLaughlin
-7
-0
-0
-0
-T. McLaughlin
-7
-0
-0
-0
-T. McLaughlin
-7
-0
-0
-0
-T. McLaughlin
-7
-0
-0
-0
-D. Crumb
-20
-0
-0
-0
-D. Crumb
-20
-0
-0
-0
-D. Crumb
-20
-0
-0
-0
-C. Crumb
+10
+M. Stephens
 27
-0
-0
-0
-C. Crumb
-27
-0
-0
-0
-C. Crumb
-27
-0
-0
-0
-D. Washington
-3
-0
-0
-0
-D. Washington
-3
-0
-0
-0
-J. Townsell
-18
-0
-0
-0
-J. Townsell
-18
-0
-0
-0
-M. DeKeyser
-37
-0
-0
-0
-M. DeKeyser
-37
-0
-0
-0
-M. DeKeyser
-37
-0
-0
-0
-M. DeKeyser
-37
-0
-0
-0
-M. DeKeyser
-37
-0
-0
-0
-M. DeKeyser
-37
-0
-0
-0
-J. Alsup
-3
-0
-0
-0
-J. Alsup
-3
-0
-0
-0
-J. Alsup
-3
-0
-0
-0
-J. Alsup
-3
-0
-0
-0
-M. Fleischaker
-34
-0
-0
-0
-M. Fleischaker
-34
-0
-0
-0
-M. Fleischaker
-34
-0
-0
-0
-M. Fleischaker
-34
-0
-0
-0
-J. Bruno
-35
-0
-0
-0
-J. Bruno
-35
 0
 0
 0
 M. Stephens
-2
+27
 0
 0
 0
-M. Stephens
-2
+Z. Bullock
+36
 0
 0
 0
-C. Auerbach
-3
+Z. Bullock
+36
 0
 0
 0
-C. Auerbach
-3
+D. Proulx
 0
 0
 0
-T. Rauschenberg
-41
+0
+D. Proulx
 0
 0
 0
-T. Rauschenberg
-41
+0
+M. Williams
+79
 0
 0
 0
-T. Rauschenberg
-41
-0
-0
-0
-T. Rauschenberg
-41
+M. Williams
+79
 0
 0
 0
 D. Merrill
-49
+59
 0
 0
 0
 D. Merrill
-49
-0
-0
-0
-A. Napier
-30
-0
-0
-0
-A. Napier
-30
-0
-0
-0
-E. Thorn
-50
-0
-0
-0
-E. Thorn
-50
-0
-0
-0
-T. Funk
-12
-0
-0
-0
-T. Funk
-12
+59
 0
 0
 0
