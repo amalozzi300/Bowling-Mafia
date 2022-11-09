@@ -2,55 +2,55 @@
 D. Merrill
 59
 203
-0
+155
 0
 D. Proulx
 0
 246
-0
+255
 0
 
 M. Stephens
 27
 177
-0
+210
 0
 Z. Bullock
 36
 181
-0
+151
 0
 
 D. Proulx
 0
 246
-0
+255
 0
 Z. Bullock
 36
 181
-0
+151
 0
 
 M. Williams
 79
 158
-0
+148
 0
 D. Merrill
 59
 203
-0
+155
 0
 
 M. Williams
 79
 158
-0
+148
 0
 M. Stephens
 27
 177
-0
+210
 0
 

@@ -1,5 +1,5 @@
-<li>D. Merrill + D. Proulx: 508</li>
-<li>M. Williams + D. Merrill: 499</li>
-<li>D. Proulx + Z. Bullock: 463</li>
-<li>M. Williams + M. Stephens: 441</li>
-<li>M. Stephens + Z. Bullock: 421</li>
+<li>D. Merrill + D. Proulx: 977</li>
+<li>M. Williams + D. Merrill: 940</li>
+<li>D. Proulx + Z. Bullock: 905</li>
+<li>M. Williams + M. Stephens: 905</li>
+<li>M. Stephens + Z. Bullock: 845</li>
