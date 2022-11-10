@@ -16,18 +16,18 @@ GAME 1:
 <li>J. Alsup: 174</li>
 
 GAME 2:
+<li>JP Morgan: 250</li>
+<li>T. Rauschenberg: 235</li>
+<li>C. Peterson: 231</li>
+<li>S. Sanford: 223</li>
+--------------------------------------
+<li>J. Townsell: 201</li>
+<li>J. Forbes: 196</li>
+<li>J. Besley: 183</li>
+
+GAME 3:
 <li>JP Morgan: 61</li>
-<li>J. Besley: 54</li>
 <li>T. Rauschenberg: 41</li>
 <li>C. Peterson: 39</li>
 --------------------------------------
 <li>S. Sanford: 18</li>
-<li>J. Townsell: 18</li>
-<li>J. Forbes: 15</li>
-
-GAME 3:
-<li>JP Morgan: 61</li>
-<li>J. Besley: 54</li>
-<li>T. Rauschenberg: 41</li>
---------------------------------------
-<li>C. Peterson: 39</li>
