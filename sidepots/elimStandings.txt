@@ -1,14 +1,33 @@
 GAME 1:
-<li>D. Merrill: 262</li>
-<li>Z. Bullock: 217</li>
+<li>J. Besley: 272</li>
+<li>J. Townsell: 262</li>
+<li>JP Morgan: 252</li>
+<li>T. Rauschenberg: 244</li>
+<li>J. Forbes: 237</li>
+<li>S. Sanford: 233</li>
+<li>C. Peterson: 226</li>
 --------------------------------------
-<li>T. McLaughlin: 209</li>
-<li>M. Stephens: 204</li>
+<li>M. Rising Sr.: 221</li>
+<li>D. Merrill: 218</li>
+<li>M. DeKeyser: 218</li>
+<li>A. Morgan: 216</li>
+<li>D. Proulx: 200</li>
+<li>M. Stephens: 193</li>
+<li>J. Alsup: 174</li>
 
 GAME 2:
-<li>D. Merrill: 214</li>
+<li>JP Morgan: 61</li>
+<li>J. Besley: 54</li>
+<li>T. Rauschenberg: 41</li>
+<li>C. Peterson: 39</li>
 --------------------------------------
-<li>Z. Bullock: 187</li>
+<li>S. Sanford: 18</li>
+<li>J. Townsell: 18</li>
+<li>J. Forbes: 15</li>
 
 GAME 3:
-<li>D. Merrill: 59</li>
+<li>JP Morgan: 61</li>
+<li>J. Besley: 54</li>
+<li>T. Rauschenberg: 41</li>
+--------------------------------------
+<li>C. Peterson: 39</li>

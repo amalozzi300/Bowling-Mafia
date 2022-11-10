@@ -1,31 +1,106 @@
-6
-M. Stephens
-27
+21
+A. Morgan
+71
 1
-1
-2
-Z. Bullock
-36
-1
-1
-2
-D. Proulx
 0
 0
+JP Morgan
+61
+1
 0
-2
+0
+M. Rising Sr.
+18
+1
+0
+0
 M. Williams
-79
+75
 0
-1
-2
-T. McLaughlin
-16
-1
 1
 0
 D. Merrill
-59
+50
 1
 1
 2
+C. Peterson
+39
+1
+1
+3
+K. Moore
+37
+0
+1
+0
+T. Funk
+14
+0
+1
+0
+J. Besley
+54
+1
+1
+1
+B. Fiene
+73
+0
+1
+0
+M. Stephens
+4
+1
+1
+2
+J. Forbes
+15
+1
+0
+2
+J. Townsell
+18
+1
+0
+2
+N. Townsell
+54
+0
+0
+2
+M. DeKeyser
+39
+1
+1
+6
+J. Alsup
+6
+1
+1
+4
+D. Proulx
+5
+1
+0
+2
+D. Stewart
+8
+0
+0
+1
+T. Rauschenberg
+41
+1
+1
+4
+S. Sanford
+18
+1
+0
+0
+M. Fleischaker
+36
+0
+0
+4

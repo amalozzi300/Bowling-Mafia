@@ -1,20 +1,38 @@
 GAME 1:
-<li>D. Merrill: 262</li>
-<li>M. Williams: 237</li>
-<li>Z. Bullock: 217</li>
-<li>T. McLaughlin: 209</li>
-<li>M. Stephens: 204</li>
+<li>J. Besley: 272</li>
+<li>T. Rauschenberg: 244</li>
+<li>K. Moore: 241</li>
+<li>B. Fiene: 240</li>
+<li>M. Williams: 239</li>
+<li>C. Peterson: 226</li>
+<li>M. DeKeyser: 218</li>
+<li>D. Merrill: 218</li>
+<li>T. Funk: 200</li>
+<li>M. Stephens: 193</li>
+<li>J. Alsup: 174</li>
 
 GAME 2:
-<li>M. Stephens: 237</li>
-<li>M. Williams: 227</li>
-<li>D. Merrill: 214</li>
-<li>T. McLaughlin: 208</li>
-<li>Z. Bullock: 187</li>
+<li>M. Williams: 75</li>
+<li>B. Fiene: 73</li>
+<li>J. Besley: 54</li>
+<li>D. Merrill: 50</li>
+<li>T. Rauschenberg: 41</li>
+<li>M. DeKeyser: 39</li>
+<li>C. Peterson: 39</li>
+<li>K. Moore: 37</li>
+<li>T. Funk: 14</li>
+<li>J. Alsup: 6</li>
+<li>M. Stephens: 4</li>
 
 GAME 3:
-<li>M. Williams: 79</li>
-<li>D. Merrill: 59</li>
-<li>Z. Bullock: 36</li>
-<li>M. Stephens: 27</li>
-<li>T. McLaughlin: 16</li>
+<li>M. Williams: 75</li>
+<li>B. Fiene: 73</li>
+<li>J. Besley: 54</li>
+<li>D. Merrill: 50</li>
+<li>T. Rauschenberg: 41</li>
+<li>C. Peterson: 39</li>
+<li>M. DeKeyser: 39</li>
+<li>K. Moore: 37</li>
+<li>T. Funk: 14</li>
+<li>J. Alsup: 6</li>
+<li>M. Stephens: 4</li>
