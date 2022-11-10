@@ -12,19 +12,6 @@ GAME 1:
 <li>J. Alsup: 174</li>
 
 GAME 2:
-<li>M. Stephens: 262</li>
-<li>B. Fiene: 242</li>
-<li>T. Rauschenberg: 235</li>
-<li>J. Alsup: 232</li>
-<li>C. Peterson: 231</li>
-<li>M. DeKeyser: 223</li>
-<li>D. Merrill: 219</li>
-<li>M. Williams: 197</li>
-<li>T. Funk: 193</li>
-<li>K. Moore: 191</li>
-<li>J. Besley: 183</li>
-
-GAME 3:
 <li>M. Williams: 75</li>
 <li>B. Fiene: 73</li>
 <li>J. Besley: 54</li>
@@ -32,6 +19,19 @@ GAME 3:
 <li>T. Rauschenberg: 41</li>
 <li>M. DeKeyser: 39</li>
 <li>C. Peterson: 39</li>
+<li>K. Moore: 37</li>
+<li>T. Funk: 14</li>
+<li>J. Alsup: 6</li>
+<li>M. Stephens: 4</li>
+
+GAME 3:
+<li>M. Williams: 75</li>
+<li>B. Fiene: 73</li>
+<li>J. Besley: 54</li>
+<li>D. Merrill: 50</li>
+<li>T. Rauschenberg: 41</li>
+<li>C. Peterson: 39</li>
+<li>M. DeKeyser: 39</li>
 <li>K. Moore: 37</li>
 <li>T. Funk: 14</li>
 <li>J. Alsup: 6</li>

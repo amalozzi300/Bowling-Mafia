@@ -2,105 +2,105 @@
 A. Morgan
 71
 145
-149
+0
 0
 JP Morgan
 61
 191
-189
+0
 0
 M. Rising Sr.
 18
 203
-267
+0
 0
 M. Williams
 75
 164
-122
+0
 0
 D. Merrill
 50
 168
-169
+0
 0
 C. Peterson
 39
 187
-192
+0
 0
 K. Moore
 37
 204
-154
+0
 0
 T. Funk
 14
 186
-179
+0
 0
 J. Besley
 54
 218
-129
+0
 0
 B. Fiene
 73
 167
-169
+0
 0
 M. Stephens
 4
 189
-258
+0
 0
 J. Forbes
 15
 222
-181
+0
 0
 J. Townsell
 18
 244
-183
+0
 0
 N. Townsell
 54
 171
-174
+0
 0
 M. DeKeyser
 39
 179
-184
+0
 0
 J. Alsup
 6
 168
-226
+0
 0
 D. Proulx
 5
 195
-255
+0
 0
 D. Stewart
 8
 198
-230
+0
 0
 T. Rauschenberg
 41
 203
-194
+0
 0
 S. Sanford
 18
 215
-205
+0
 0
 M. Fleischaker
 36
 206
-165
+0
 0

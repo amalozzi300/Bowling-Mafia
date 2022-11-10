@@ -2,55 +2,55 @@
 M. Williams
 75
 164
-122
+0
 0
 D. Merrill
 50
 168
-169
+0
 0
 C. Peterson
 39
 187
-192
+0
 0
 K. Moore
 37
 204
-154
+0
 0
 T. Funk
 14
 186
-179
+0
 0
 J. Besley
 54
 218
-129
+0
 0
 B. Fiene
 73
 167
-169
+0
 0
 M. Stephens
 4
 189
-258
+0
 0
 M. DeKeyser
 39
 179
-184
+0
 0
 J. Alsup
 6
 168
-226
+0
 0
 T. Rauschenberg
 41
 203
-194
+0
 0
