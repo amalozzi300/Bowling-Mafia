@@ -64,13 +64,14 @@
 }
 
 .past-tuesday h3, .past-wednesday h3 {
-  font-size: 23px;
+  font-size: 24px;
   text-align: center;
 }
 
-.past-tuesday p, .past-wednesday p {
-  font-size: 22px;
-  margin-bottom: 0;
+#full-results {
+  display: inline-block;
+  text-align: center;
+  width: 100%;
 }
 
 @media only screen and (max-width: 1300px) {
@@ -92,66 +93,43 @@
     width: 101.22%;
     margin: 5px;
   }
-  
-  .game1, .game2, .game3 {
-    border-top: 2px solid yellow;
-    border-bottom: 2px solid yellow;
-  }
+}
 
-  .game1 {
-    border-left: 2px solid yellow;
-    border-right: 1px solid yellow;
-  }
+.mini-columns {
+  display: table;
+  width: 100%;
+}
 
-  .game2 {
-    border-left: 1px solid yellow;
-    border-right: 1px solid yellow;
-  }
-
-  .game3 {
-    border-left: 1px solid yellow;
-    border-right: 2px solid yellow;
-  }
+.past-elim p, .past-hg p, .past-md p {
+  font-size: 22px;
+  text-align: center;
+  text-decoration: underline;
+  margin-bottom: 0;
 }
 
 .past-elim {
-  display: table;
-  width: 100%;
+  display: table-cell;
+  width: 50%;
   padding: 10px;
   margin: -5px, 0, 0, 0;
 }
 
 .past-elim ol {
-  list-style: none;
   text-align: center;
+  list-style: none;
   padding-left: 0;
 }
 
-.game1, .game2, .game3 {
-  display: table-cell;
-  width: 33%;
-}
-
-.game1 p, .game2 p, .game3 p {
-  font-size: 20px;
-  font-weight: bold;
-  text-align: center;
-}
-
-.cut {
-  background-color: black;
-}
-
 .past-hg {
-  display: table;
+  display: table-cell;
   width: 100%;
   padding: 10px;
   margin: -5px, 0, 0, 0;
 }
 
 .past-hg ol {
-  list-style: none;
   text-align: center;
+  list-style: none;
   padding-left: 0;
 }
 
@@ -162,13 +140,8 @@
   margin: -5px, 0, 0, 0;
 }
 
-.past-md .game3 {
-  display: inline-block;
-  width: 100%;
-}
-
 .past-md ol {
-  list-style: none;
   text-align: center;
+  list-style: none;
   padding-left: 0;
 }
