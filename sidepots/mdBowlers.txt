@@ -1,25 +1,95 @@
+38
+D. Merrill
+50
+0
+0
+0
+D. Merrill
+50
+0
+0
+0
+E. Thorn
+47
+0
+0
+0
+E. Thorn
+47
+0
+0
+0
+E. Thorn
+47
+0
+0
+0
+Z. Bullock
+45
+0
+0
+0
+Z. Bullock
+45
+0
+0
+0
+E. Fleischaker
+22
+0
+0
+0
+E. Fleischaker
+22
+0
+0
+0
+M. Fleischaker
 36
-D. Merrill
-50
 0
 0
 0
-D. Merrill
-50
+M. Fleischaker
+36
 0
 0
 0
-C. Peterson
+M. Fleischaker
+36
+0
+0
+0
+M. Fleischaker
+36
+0
+0
+0
+J. Forbes
+16
+0
+0
+0
+J. Forbes
+16
+0
+0
+0
+T. Rauschenberg
 39
 0
 0
 0
-C. Peterson
+T. Rauschenberg
 39
 0
 0
 0
-C. Peterson
+T. Rauschenberg
+39
+0
+0
+0
+T. Rauschenberg
 39
 0
 0
@@ -29,33 +99,48 @@ J. Besley
 0
 0
 0
-M. Stephens
-4
+J. Besley
+54
 0
 0
 0
 M. Stephens
-4
+5
 0
 0
 0
-J. Forbes
-15
+M. Stephens
+5
 0
 0
 0
-J. Forbes
-15
+D. Crumb
+16
 0
 0
 0
-J. Townsell
-18
+D. Crumb
+16
 0
 0
 0
-J. Townsell
-18
+C. Crumb
+30
+0
+0
+0
+C. Crumb
+30
+0
+0
+0
+D. Washington
+6
+0
+0
+0
+D. Washington
+6
 0
 0
 0
@@ -69,113 +154,38 @@ N. Townsell
 0
 0
 0
-M. DeKeyser
-39
+J. Townsell
+18
 0
 0
 0
-M. DeKeyser
-39
+J. Townsell
+18
 0
 0
 0
-M. DeKeyser
-39
-0
-0
-0
-M. DeKeyser
-39
-0
-0
-0
-M. DeKeyser
-39
-0
-0
-0
-M. DeKeyser
-39
+T. McCall
+71
 0
 0
 0
 J. Alsup
-6
-0
-0
-0
-J. Alsup
-6
-0
-0
-0
-J. Alsup
-6
-0
-0
-0
-J. Alsup
-6
-0
-0
-0
-D. Proulx
-5
-0
-0
-0
-D. Proulx
-5
-0
-0
-0
-D. Proulx
-5
-0
-0
-0
-D. Stewart
 8
 0
 0
 0
-T. Rauschenberg
-41
+J. Alsup
+8
 0
 0
 0
-T. Rauschenberg
-41
+J. Alsup
+8
 0
 0
 0
-T. Rauschenberg
-41
-0
-0
-0
-T. Rauschenberg
-41
-0
-0
-0
-M. Fleischaker
-36
-0
-0
-0
-M. Fleischaker
-36
-0
-0
-0
-M. Fleischaker
-36
-0
-0
-0
-M. Fleischaker
-36
+J. Alsup
+8
 0
 0
 0

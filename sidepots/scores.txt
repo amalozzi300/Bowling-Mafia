@@ -1,106 +1,131 @@
-21
-A. Morgan
-71
-145
-0
-0
-JP Morgan
-61
-191
-0
-0
-M. Rising Sr.
-18
-203
-0
-0
-M. Williams
-75
-164
+26
+R. Abel
+32
+215
 0
 0
 D. Merrill
 50
-168
+190
 0
 0
-C. Peterson
+A. Perruzzi
+43
+207
+0
+0
+E. Thorn
+47
+182
+0
+0
+Z. Bullock
+45
+148
+0
+0
+W. Worden
 39
-187
+173
 0
 0
-K. Moore
-37
-204
+S. Sanford
+17
+253
 0
 0
-T. Funk
-14
-186
+E. Fleischaker
+22
+203
+0
+0
+M. Fleischaker
+36
+169
+0
+0
+J. Forbes
+16
+220
+0
+0
+T. Rauschenberg
+39
+208
 0
 0
 J. Besley
 54
-218
+188
+0
+0
+K. Moore
+37
+248
+0
+0
+A. Hernandez
+68
+108
 0
 0
 B. Fiene
-73
-167
+72
+133
+0
+0
+T. McLaughlin
+5
+268
 0
 0
 M. Stephens
-4
-189
+5
+225
 0
 0
-J. Forbes
-15
-222
+C. Auerbach
+6
+227
 0
 0
-J. Townsell
-18
+D. Crumb
+16
+300
+0
+0
+C. Crumb
+30
+184
+0
+0
+D. Washington
+6
 244
 0
 0
 N. Townsell
 54
-171
+172
 0
 0
-M. DeKeyser
-39
-179
+J. Townsell
+18
+220
 0
 0
-J. Alsup
-6
-168
+T. McCall
+71
+132
 0
 0
 D. Proulx
-5
-195
+4
+232
 0
 0
-D. Stewart
+J. Alsup
 8
-198
-0
-0
-T. Rauschenberg
-41
-203
-0
-0
-S. Sanford
-18
-215
-0
-0
-M. Fleischaker
-36
-206
+258
 0
 0

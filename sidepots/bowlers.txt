@@ -1,62 +1,112 @@
-21
-A. Morgan
-71
+26
+R. Abel
+32
 1
 0
-0
-JP Morgan
-61
-1
-0
-0
-M. Rising Sr.
-18
-1
-0
-0
-M. Williams
-75
-0
-1
 0
 D. Merrill
 50
 1
 1
 2
-C. Peterson
+A. Perruzzi
+43
+0
+1
+0
+E. Thorn
+47
+0
+0
+3
+Z. Bullock
+45
+1
+1
+2
+W. Worden
 39
 1
 1
-3
-K. Moore
-37
 0
+S. Sanford
+17
 1
 0
-T. Funk
-14
 0
+E. Fleischaker
+22
+1
+1
+2
+M. Fleischaker
+36
+0
+0
+4
+J. Forbes
+16
 1
 0
+2
+T. Rauschenberg
+39
+1
+1
+4
 J. Besley
 54
 1
 1
+2
+K. Moore
+37
 1
-B. Fiene
-73
+1
 0
+A. Hernandez
+68
+0
+1
+0
+B. Fiene
+72
+0
+1
+0
+T. McLaughlin
+5
+1
 1
 0
 M. Stephens
-4
+5
 1
 1
 2
-J. Forbes
-15
+C. Auerbach
+6
 1
+0
+0
+D. Crumb
+16
+1
+1
+2
+C. Crumb
+30
+1
+1
+2
+D. Washington
+6
+1
+1
+2
+N. Townsell
+54
+0
 0
 2
 J. Townsell
@@ -64,43 +114,18 @@ J. Townsell
 1
 0
 2
-N. Townsell
-54
-0
-0
-2
-M. DeKeyser
-39
+T. McCall
+71
 1
 1
-6
-J. Alsup
-6
 1
-1
-4
 D. Proulx
-5
-1
-0
-2
-D. Stewart
-8
-0
-0
-1
-T. Rauschenberg
-41
-1
-1
 4
-S. Sanford
-18
 1
 0
 0
-M. Fleischaker
-36
+J. Alsup
+8
 0
 0
 4
