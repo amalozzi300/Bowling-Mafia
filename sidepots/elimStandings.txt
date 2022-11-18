@@ -34,9 +34,9 @@ GAME 2:
 <li>D. Crumb: 197</li>
 
 GAME 3:
-<li>J. Besley: 54</li>
-<li>K. Moore: 37</li>
-<li>R. Abel: 32</li>
-<li>D. Washington: 6</li>
+<li>D. Washington: 244</li>
+<li>K. Moore: 240</li>
+<li>R. Abel: 234</li>
+<li>T. McLaughlin: 214</li>
 --------------------------------------
-<li>T. McLaughlin: 5</li>
+<li>J. Besley: 159</li>

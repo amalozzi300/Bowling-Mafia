@@ -35,19 +35,19 @@ GAME 2:
 <li>A. Hernandez: 197</li>
 
 GAME 3:
-<li>B. Fiene: 72</li>
-<li>T. McCall: 71</li>
-<li>A. Hernandez: 68</li>
-<li>J. Besley: 54</li>
-<li>D. Merrill: 50</li>
-<li>Z. Bullock: 45</li>
-<li>A. Perruzzi: 43</li>
-<li>T. Rauschenberg: 39</li>
-<li>W. Worden: 39</li>
-<li>K. Moore: 37</li>
-<li>C. Crumb: 30</li>
-<li>E. Fleischaker: 22</li>
-<li>D. Crumb: 16</li>
-<li>D. Washington: 6</li>
-<li>T. McLaughlin: 5</li>
-<li>M. Stephens: 5</li>
+<li>E. Fleischaker: 300</li>
+<li>D. Crumb: 275</li>
+<li>A. Perruzzi: 254</li>
+<li>W. Worden: 250</li>
+<li>T. Rauschenberg: 245</li>
+<li>D. Washington: 244</li>
+<li>K. Moore: 240</li>
+<li>T. McCall: 221</li>
+<li>B. Fiene: 215</li>
+<li>T. McLaughlin: 214</li>
+<li>C. Crumb: 197</li>
+<li>D. Merrill: 195</li>
+<li>Z. Bullock: 195</li>
+<li>A. Hernandez: 186</li>
+<li>M. Stephens: 181</li>
+<li>J. Besley: 159</li>

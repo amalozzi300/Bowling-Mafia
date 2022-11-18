@@ -3,79 +3,79 @@ D. Merrill
 50
 190
 164
-0
+145
 A. Perruzzi
 43
 207
 159
-0
+211
 Z. Bullock
 45
 148
 180
-0
+150
 W. Worden
 39
 173
 224
-0
+211
 E. Fleischaker
 22
 203
 188
-0
+278
 T. Rauschenberg
 39
 208
 190
-0
+206
 J. Besley
 54
 188
 186
-0
+105
 K. Moore
 37
 248
 229
-0
+203
 A. Hernandez
 68
 108
 129
-0
+118
 B. Fiene
 72
 133
 144
-0
+143
 T. McLaughlin
 5
 268
 258
-0
+209
 M. Stephens
 5
 225
 256
-0
+176
 D. Crumb
 16
 300
 181
-0
+259
 C. Crumb
 30
 184
 225
-0
+167
 D. Washington
 6
 244
 255
-0
+238
 T. McCall
 71
 132
 168
-0
+150

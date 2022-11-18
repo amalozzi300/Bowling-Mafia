@@ -3,94 +3,94 @@ R. Abel
 32
 215
 233
-0
+202
 D. Merrill
 50
 190
 164
-0
+145
 Z. Bullock
 45
 148
 180
-0
+150
 W. Worden
 39
 173
 224
-0
+211
 S. Sanford
 17
 253
 190
-0
+267
 E. Fleischaker
 22
 203
 188
-0
+278
 J. Forbes
 16
 220
 187
-0
+225
 T. Rauschenberg
 39
 208
 190
-0
+206
 J. Besley
 54
 188
 186
-0
+105
 K. Moore
 37
 248
 229
-0
+203
 T. McLaughlin
 5
 268
 258
-0
+209
 M. Stephens
 5
 225
 256
-0
+176
 C. Auerbach
 6
 227
 203
-0
+267
 D. Crumb
 16
 300
 181
-0
+259
 C. Crumb
 30
 184
 225
-0
+167
 D. Washington
 6
 244
 255
-0
+238
 J. Townsell
 18
 220
 204
-0
+266
 T. McCall
 71
 132
 168
-0
+150
 D. Proulx
 4
 232
 172
-0
+215

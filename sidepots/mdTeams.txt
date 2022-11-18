@@ -3,208 +3,208 @@ M. Fleischaker
 36
 169
 180
-0
+176
 E. Fleischaker
 22
 203
 188
-0
+278
 
 M. Fleischaker
 36
 169
 180
-0
+176
 D. Merrill
 50
 190
 164
-0
+145
 
 J. Townsell
 18
 220
 204
-0
+266
 J. Alsup
 8
 258
 224
-0
+206
 
 T. Rauschenberg
 39
 208
 190
-0
+206
 D. Washington
 6
 244
 255
-0
+238
 
 E. Thorn
 47
 182
 177
-0
+196
 D. Merrill
 50
 190
 164
-0
+145
 
 T. McCall
 71
 132
 168
-0
+150
 J. Forbes
 16
 220
 187
-0
+225
 
 N. Townsell
 54
 172
 150
-0
+169
 C. Crumb
 30
 184
 225
-0
+167
 
 E. Thorn
 47
 182
 177
-0
+196
 T. Rauschenberg
 39
 208
 190
-0
+206
 
 M. Stephens
 5
 225
 256
-0
+176
 J. Alsup
 8
 258
 224
-0
+206
 
 J. Alsup
 8
 258
 224
-0
+206
 M. Fleischaker
 36
 169
 180
-0
+176
 
 J. Besley
 54
 188
 186
-0
+105
 E. Fleischaker
 22
 203
 188
-0
+278
 
 N. Townsell
 54
 172
 150
-0
+169
 E. Thorn
 47
 182
 177
-0
+196
 
 C. Crumb
 30
 184
 225
-0
+167
 D. Crumb
 16
 300
 181
-0
+259
 
 T. Rauschenberg
 39
 208
 190
-0
+206
 D. Crumb
 16
 300
 181
-0
+259
 
 M. Stephens
 5
 225
 256
-0
+176
 J. Forbes
 16
 220
 187
-0
+225
 
 J. Townsell
 18
 220
 204
-0
+266
 D. Washington
 6
 244
 255
-0
+238
 
 Z. Bullock
 45
 148
 180
-0
+150
 J. Besley
 54
 188
 186
-0
+105
 
 M. Fleischaker
 36
 169
 180
-0
+176
 T. Rauschenberg
 39
 208
 190
-0
+206
 
 J. Alsup
 8
 258
 224
-0
+206
 Z. Bullock
 45
 148
 180
-0
+150
 
