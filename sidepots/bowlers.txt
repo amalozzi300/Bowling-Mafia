@@ -1,131 +1,26 @@
-26
-R. Abel
-32
-1
+5
+D. Proulx
 0
-0
-D. Merrill
-50
-1
-1
-2
-A. Perruzzi
-43
 0
 1
 0
-E. Thorn
-47
+D. Washington
+19
 0
+1
 0
-3
-Z. Bullock
-45
+M. Miller
+18
+0
 1
-1
-2
-W. Worden
-39
-1
+0
+J. Taylor
+70
+0
 1
 0
 S. Sanford
-17
-1
-0
-0
-E. Fleischaker
-22
-1
-1
-2
-M. Fleischaker
-36
-0
-0
-4
-J. Forbes
-16
-1
-0
-2
-T. Rauschenberg
-39
-1
-1
-4
-J. Besley
-54
-1
-1
-2
-K. Moore
-37
-1
-1
-0
-A. Hernandez
-68
+25
 0
 1
 0
-B. Fiene
-72
-0
-1
-0
-T. McLaughlin
-5
-1
-1
-0
-M. Stephens
-5
-1
-1
-2
-C. Auerbach
-6
-1
-0
-0
-D. Crumb
-16
-1
-1
-2
-C. Crumb
-30
-1
-1
-2
-D. Washington
-6
-1
-1
-2
-N. Townsell
-54
-0
-0
-2
-J. Townsell
-18
-1
-0
-2
-T. McCall
-71
-1
-1
-1
-D. Proulx
-4
-1
-0
-0
-J. Alsup
-8
-0
-0
-4

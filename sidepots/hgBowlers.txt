@@ -1,81 +1,26 @@
-16
-D. Merrill
-50
-190
-164
-145
-A. Perruzzi
-43
-207
-159
-211
-Z. Bullock
-45
-148
-180
-150
-W. Worden
-39
-173
-224
-211
-E. Fleischaker
-22
-203
-188
-278
-T. Rauschenberg
-39
-208
-190
-206
-J. Besley
-54
-188
-186
-105
-K. Moore
-37
-248
-229
-203
-A. Hernandez
-68
-108
-129
-118
-B. Fiene
-72
-133
-144
-143
-T. McLaughlin
 5
-268
-258
-209
-M. Stephens
-5
-225
-256
-176
-D. Crumb
-16
-300
-181
-259
-C. Crumb
-30
-184
-225
-167
+D. Proulx
+0
+0
+0
+0
 D. Washington
-6
-244
-255
-238
-T. McCall
-71
-132
-168
-150
+19
+0
+0
+0
+M. Miller
+18
+0
+0
+0
+J. Taylor
+70
+0
+0
+0
+S. Sanford
+25
+0
+0
+0

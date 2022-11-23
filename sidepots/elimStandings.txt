@@ -1,42 +1,5 @@
 GAME 1:
-<li>D. Crumb: 316</li>
-<li>K. Moore: 285</li>
-<li>T. McLaughlin: 273</li>
-<li>S. Sanford: 270</li>
-<li>D. Washington: 250</li>
-<li>R. Abel: 247</li>
-<li>T. Rauschenberg: 247</li>
-<li>J. Besley: 242</li>
-<li>D. Merrill: 240</li>
-<li>J. Townsell: 238</li>
---------------------------------------
-<li>J. Forbes: 236</li>
-<li>D. Proulx: 236</li>
-<li>C. Auerbach: 233</li>
-<li>M. Stephens: 230</li>
-<li>E. Fleischaker: 225</li>
-<li>C. Crumb: 214</li>
-<li>W. Worden: 212</li>
-<li>T. McCall: 203</li>
-<li>Z. Bullock: 193</li>
 
 GAME 2:
-<li>K. Moore: 266</li>
-<li>R. Abel: 265</li>
-<li>T. McLaughlin: 263</li>
-<li>D. Washington: 261</li>
-<li>J. Besley: 240</li>
---------------------------------------
-<li>T. Rauschenberg: 229</li>
-<li>J. Townsell: 222</li>
-<li>D. Merrill: 214</li>
-<li>S. Sanford: 207</li>
-<li>D. Crumb: 197</li>
 
 GAME 3:
-<li>D. Washington: 244</li>
-<li>K. Moore: 240</li>
-<li>R. Abel: 234</li>
-<li>T. McLaughlin: 214</li>
---------------------------------------
-<li>J. Besley: 159</li>
