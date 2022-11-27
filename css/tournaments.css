@@ -1,3 +1,52 @@
-.coming-soon {
-  margin: 40px 0 0 0;
+.next-event {
+  text-align: center;
+  padding: 10px;
+  margin-top: 40px;
+}
+
+.next-event h1 {
+  font-size: 25px;
+  text-decoration: underline;
+  padding: 0;
+  margin: 5px;
+}
+
+.next-event p {
+  font-size: 18px;
+}
+
+.holiday-marathon {
+  background: linear-gradient(90deg, rgb(2, 2, 200) 30%, rgb(200, 0, 0) 75%);
+  border: solid 2px yellow;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.holiday-marathon h1 {
+  font-size: 25px;
+  text-decoration: underline;
+  margin-bottom: 30px;
+}
+
+.holiday-marathon h2 {
+  text-decoration: underline;
+  margin-bottom: 15px;
+}
+
+.holiday-marathon a {
+  font-size: 20px;
+  text-decoration: none;
+  border: 2px solid yellow;
+  padding: 5px;
+  margin: 25px;
+  cursor: pointer;
+}
+
+.holiday-marathon p {
+  font-size: 20px;
+  margin: 10px;
+}
+
+.info {
+  margin-top: 30px;
 }

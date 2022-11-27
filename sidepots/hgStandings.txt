@@ -6,22 +6,15 @@ GAME 1:
 <li>S. Sanford: 205</li>
 
 GAME 2:
-<li>J. Taylor: 70</li>
-<li>S. Sanford: 25</li>
-<li>D. Washington: 19</li>
-<li>M. Miller: 18</li>
-<li>D. Proulx: 0</li>
+<li>J. Taylor: 271</li>
+<li>S. Sanford: 256</li>
+<li>M. Miller: 241</li>
+<li>D. Proulx: 216</li>
+<li>D. Washington: 176</li>
 
 GAME 3:
-<li>J. Taylor: 70</li>
-<li>S. Sanford: 25</li>
-<li>D. Washington: 19</li>
-<li>M. Miller: 18</li>
-<li>D. Proulx: 0</li>
-
-
-<li>J. Taylor: 70</li>
-<li>S. Sanford: 25</li>
-<li>D. Washington: 19</li>
-<li>M. Miller: 18</li>
-<li>D. Proulx: 0</li>
+<li>D. Proulx: 233</li>
+<li>M. Miller: 221</li>
+<li>D. Washington: 220</li>
+<li>S. Sanford: 210</li>
+<li>J. Taylor: 207</li>
