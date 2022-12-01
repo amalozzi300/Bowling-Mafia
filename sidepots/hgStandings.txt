@@ -7,12 +7,12 @@ GAME 1:
 <li>M. Stephens: 218</li>
 
 GAME 2:
-<li>Z. Bullock: 45</li>
-<li>T. Rauschenberg: 38</li>
-<li>K. Moore: 35</li>
-<li>C. Crumb: 30</li>
-<li>D. Crumb: 10</li>
-<li>M. Stephens: 5</li>
+<li>Z. Bullock: 271</li>
+<li>M. Stephens: 263</li>
+<li>T. Rauschenberg: 219</li>
+<li>K. Moore: 208</li>
+<li>C. Crumb: 198</li>
+<li>D. Crumb: 179</li>
 
 GAME 3:
 <li>Z. Bullock: 45</li>
