@@ -1,0 +1,155 @@
+14
+E. Thorn
+46
+192
+0
+0
+T. Rauschenberg
+38
+199
+0
+0
+
+E. Thorn
+46
+192
+0
+0
+D. Crumb
+10
+244
+0
+0
+
+N. Townsell
+54
+134
+0
+0
+E. Thorn
+46
+192
+0
+0
+
+Z. Bullock
+45
+176
+0
+0
+M. Stephens
+5
+213
+0
+0
+
+C. Pullen
+51
+166
+0
+0
+N. Townsell
+54
+134
+0
+0
+
+J. Forbes
+16
+236
+0
+0
+J. Bruno
+34
+147
+0
+0
+
+J. Townsell
+16
+175
+0
+0
+C. Crumb
+30
+248
+0
+0
+
+C. Pullen
+51
+166
+0
+0
+C. Crumb
+30
+248
+0
+0
+
+J. Townsell
+16
+175
+0
+0
+J. Bruno
+34
+147
+0
+0
+
+D. Crumb
+10
+244
+0
+0
+J. Forbes
+16
+236
+0
+0
+
+M. Stephens
+5
+213
+0
+0
+T. Rauschenberg
+38
+199
+0
+0
+
+T. Rauschenberg
+38
+199
+0
+0
+Z. Bullock
+45
+176
+0
+0
+
+T. Rauschenberg
+38
+199
+0
+0
+A. Malozzi
+21
+213
+0
+0
+
+M. Stephens
+5
+213
+0
+0
+E. Thorn
+46
+192
+0
+0
+

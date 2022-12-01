@@ -1,26 +1,96 @@
-5
-D. Proulx
-0
-0
-1
-0
-D. Washington
 19
+M. Stephens
+5
+1
+1
+3
+A. Malozzi
+21
+0
 0
 1
-0
-M. Miller
-18
-0
+T. Owens
+36
 1
 0
-J. Taylor
-70
 0
+S. Samford
+15
 1
 0
-S. Sanford
-25
 0
+J. Forbes
+16
 1
 0
+2
+J. Bruno
+34
+0
+0
+2
+T. Rauschenberg
+38
+1
+1
+4
+C. Pullen
+51
+0
+0
+2
+J. Townsell
+16
+1
+0
+2
+N. Townsell
+54
+0
+0
+2
+T. McCall
+71
+1
+0
+0
+B. Quandt
+28
+1
+0
+0
+E. Thorn
+46
+0
+0
+4
+K. Moore
+35
+1
+1
+0
+Z. Bullock
+45
+1
+1
+2
+A. Morgan
+72
+1
+0
+0
+R. Abel
+30
+1
+0
+0
+D. Crumb
+10
+1
+1
+2
+C. Crumb
+30
+1
+1
+2

@@ -1,0 +1,14 @@
+<li>D. Crumb + J. Forbes: 506</li>
+<li>C. Pullen + C. Crumb: 495</li>
+<li>E. Thorn + D. Crumb: 492</li>
+<li>E. Thorn + T. Rauschenberg: 475</li>
+<li>T. Rauschenberg + A. Malozzi: 471</li>
+<li>J. Townsell + C. Crumb: 469</li>
+<li>T. Rauschenberg + Z. Bullock: 458</li>
+<li>M. Stephens + E. Thorn: 456</li>
+<li>M. Stephens + T. Rauschenberg: 455</li>
+<li>Z. Bullock + M. Stephens: 439</li>
+<li>J. Forbes + J. Bruno: 433</li>
+<li>N. Townsell + E. Thorn: 426</li>
+<li>C. Pullen + N. Townsell: 405</li>
+<li>J. Townsell + J. Bruno: 372</li>

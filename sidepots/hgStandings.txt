@@ -1,20 +1,23 @@
 GAME 1:
-<li>D. Proulx: 263</li>
-<li>J. Taylor: 250</li>
-<li>M. Miller: 242</li>
-<li>D. Washington: 239</li>
-<li>S. Sanford: 205</li>
+<li>C. Crumb: 278</li>
+<li>K. Moore: 271</li>
+<li>D. Crumb: 254</li>
+<li>T. Rauschenberg: 237</li>
+<li>Z. Bullock: 221</li>
+<li>M. Stephens: 218</li>
 
 GAME 2:
-<li>J. Taylor: 271</li>
-<li>S. Sanford: 256</li>
-<li>M. Miller: 241</li>
-<li>D. Proulx: 216</li>
-<li>D. Washington: 176</li>
+<li>Z. Bullock: 45</li>
+<li>T. Rauschenberg: 38</li>
+<li>K. Moore: 35</li>
+<li>C. Crumb: 30</li>
+<li>D. Crumb: 10</li>
+<li>M. Stephens: 5</li>
 
 GAME 3:
-<li>D. Proulx: 233</li>
-<li>M. Miller: 221</li>
-<li>D. Washington: 220</li>
-<li>S. Sanford: 210</li>
-<li>J. Taylor: 207</li>
+<li>Z. Bullock: 45</li>
+<li>T. Rauschenberg: 38</li>
+<li>K. Moore: 35</li>
+<li>C. Crumb: 30</li>
+<li>D. Crumb: 10</li>
+<li>M. Stephens: 5</li>

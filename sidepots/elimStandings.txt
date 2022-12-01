@@ -1,5 +1,33 @@
 GAME 1:
+<li>C. Crumb: 278</li>
+<li>K. Moore: 271</li>
+<li>B. Quandt: 263</li>
+<li>D. Crumb: 254</li>
+<li>J. Forbes: 252</li>
+<li>T. McCall: 239</li>
+<li>T. Rauschenberg: 237</li>
+--------------------------------------
+<li>T. Owens: 226</li>
+<li>Z. Bullock: 221</li>
+<li>A. Morgan: 220</li>
+<li>M. Stephens: 218</li>
+<li>J. Townsell: 191</li>
+<li>S. Samford: 185</li>
+<li>R. Abel: 185</li>
 
 GAME 2:
+<li>T. McCall: 71</li>
+<li>T. Rauschenberg: 38</li>
+<li>K. Moore: 35</li>
+<li>C. Crumb: 30</li>
+--------------------------------------
+<li>B. Quandt: 28</li>
+<li>J. Forbes: 16</li>
+<li>D. Crumb: 10</li>
 
 GAME 3:
+<li>T. McCall: 71</li>
+<li>T. Rauschenberg: 38</li>
+<li>K. Moore: 35</li>
+--------------------------------------
+<li>C. Crumb: 30</li>
