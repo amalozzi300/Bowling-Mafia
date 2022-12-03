@@ -1,101 +1,66 @@
-32
-M. Gritsavage
-21
+42
+M. DeKeyser
+28
 0
 0
 0
-M. Gritsavage
-21
+M. DeKeyser
+28
 0
 0
 0
-T. Agnew
+M. DeKeyser
+28
 0
 0
 0
-0
-T. Agnew
-0
-0
-0
-0
-N. Chauvan
-19
+M. DeKeyser
+28
 0
 0
 0
-N. Chauvan
-19
+M. DeKeyser
+28
 0
 0
 0
-M. Ewing
-36
+M. DeKeyser
+28
 0
 0
 0
-M. Ewing
-36
+M. DeKeyser
+28
 0
 0
 0
-A. Cochran
-29
+M. DeKeyser
+28
 0
 0
 0
-A. Cochran
-29
+R. McManus
+25
 0
 0
 0
-D. Dupree
+E. Thorn
+27
 0
 0
 0
-0
-C. Mincks
-0
-0
-0
-0
-J. Buswell
-54
+E. Thorn
+27
 0
 0
 0
-J. Buswell
-54
+M. Miller
+9
 0
 0
 0
-J. Forbes
-7
-0
-0
-0
-J. Forbes
-7
-0
-0
-0
-D. Crumb
-0
-0
-0
-0
-D. Crumb
-0
-0
-0
-0
-C. Crumb
-20
-0
-0
-0
-C. Crumb
-20
+M. Miller
+9
 0
 0
 0
@@ -119,43 +84,128 @@ M. Stephens
 0
 0
 0
-J. Alsup
-1
+M. Stephens
 0
 0
 0
-J. Alsup
-1
+0
+M. Ewing
+38
 0
 0
 0
-J. Alsup
-1
+M. Ewing
+38
 0
 0
 0
-J. Alsup
-1
+B. Tramel
+18
 0
 0
 0
-D. Merrill
-40
+B. Tramel
+18
 0
 0
 0
-D. Merrill
-40
+B. Tramel
+18
 0
 0
 0
-D. Razzano
-16
+B. Tramel
+18
 0
 0
 0
-D. Razzano
-16
+B. Tramel
+18
+0
+0
+0
+B. Tramel
+18
+0
+0
+0
+C. Clark
+31
+0
+0
+0
+T. Agnew
+0
+0
+0
+0
+T. Agnew
+0
+0
+0
+0
+M. Gritsavage
+21
+0
+0
+0
+M. Gritsavage
+21
+0
+0
+0
+N. Carrizales
+23
+0
+0
+0
+N. Carrizales
+23
+0
+0
+0
+N. Chauvin
+19
+0
+0
+0
+N. Chauvin
+19
+0
+0
+0
+B. Allen
+25
+0
+0
+0
+B. Allen
+25
+0
+0
+0
+C. Minck
+0
+0
+0
+0
+F. DeGeorge
+4
+0
+0
+0
+D. Dupree
+0
+0
+0
+0
+W. Harris
+9
+0
+0
+0
+W. Harris
+9
 0
 0
 0

@@ -1,46 +1,51 @@
-9
-C. Mincks
-0
-211
-195
+10
+M. DeKeyser
+28
 185
-J. Buswell
-54
-182
-120
-155
-D. Crumb
 0
-258
-248
-235
-C. Crumb
-20
-224
-179
-175
-D. Proulx
 0
-219
-191
-230
-M. Stephens
+M. Miller
+9
+160
 0
-278
-189
-202
-D. Merrill
-40
-149
-153
-168
+0
 D. Boothe
 5
-212
-248
-194
+172
+0
+0
 B. Quandt
-16
-236
-208
-148
+18
+225
+0
+0
+D. Proulx
+0
+205
+0
+0
+M. Stephens
+0
+210
+0
+0
+B. Tramel
+18
+188
+0
+0
+C. Minck
+0
+247
+0
+0
+F. DeGeorge
+4
+259
+0
+0
+D. Dupree
+0
+237
+0
+0

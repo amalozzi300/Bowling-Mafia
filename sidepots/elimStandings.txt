@@ -1,26 +1,29 @@
 GAME 1:
-<li>M. Stephens: 278</li>
-<li>D. Crumb: 258</li>
-<li>B. Quandt: 252</li>
-<li>C. Crumb: 244</li>
-<li>J. Buswell: 236</li>
+<li>F. DeGeorge: 263</li>
+<li>C. Minck: 247</li>
+<li>B. Quandt: 243</li>
+<li>R. McManus: 241</li>
+<li>D. Dupree: 237</li>
+<li>C. Clark: 233</li>
 --------------------------------------
-<li>N. Carrizales: 229</li>
-<li>D. Proulx: 219</li>
-<li>C. Mincks: 211</li>
-<li>J. Forbes: 201</li>
-<li>D. Merrill: 189</li>
+<li>M. DeKeyser: 213</li>
+<li>M. Stephens: 210</li>
+<li>B. Tramel: 206</li>
+<li>D. Proulx: 205</li>
+<li>D. Boothe: 177</li>
+<li>M. Miller: 169</li>
 
 GAME 2:
-<li>D. Crumb: 248</li>
-<li>B. Quandt: 224</li>
-<li>C. Crumb: 199</li>
+<li>C. Clark: 31</li>
+<li>R. McManus: 25</li>
+<li>B. Quandt: 18</li>
 --------------------------------------
-<li>M. Stephens: 189</li>
-<li>J. Buswell: 174</li>
+<li>F. DeGeorge: 4</li>
+<li>D. Dupree: 0</li>
+<li>C. Minck: 0</li>
 
 GAME 3:
-<li>D. Crumb: 235</li>
-<li>C. Crumb: 195</li>
+<li>C. Clark: 31</li>
+<li>R. McManus: 25</li>
+<li>B. Quandt: 18</li>
 --------------------------------------
-<li>B. Quandt: 164</li>
