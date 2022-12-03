@@ -20,7 +20,7 @@ GAME 2:
 <li>J. Buswell: 174</li>
 
 GAME 3:
-<li>C. Crumb: 20</li>
-<li>B. Quandt: 16</li>
+<li>D. Crumb: 235</li>
+<li>C. Crumb: 195</li>
 --------------------------------------
-<li>D. Crumb: 0</li>
+<li>B. Quandt: 164</li>

@@ -3,94 +3,94 @@ M. Gritsavage
 21
 195
 236
-0
+236
 T. Agnew
 0
 209
 180
-0
+180
 N. Chauvan
 19
 257
 182
-0
+203
 M. Ewing
 36
 180
 146
-0
+199
 A. Cochran
 29
 178
 193
-0
+202
 D. Dupree
 0
 224
 190
-0
+243
 N. Carrizales
 23
 206
 213
-0
+203
 C. Mincks
 0
 211
 195
-0
+185
 J. Buswell
 54
 182
 120
-0
+155
 J. Forbes
 7
 194
 167
-0
+190
 D. Crumb
 0
 258
 248
-0
+235
 C. Crumb
 20
 224
 179
-0
+175
 D. Proulx
 0
 219
 191
-0
+230
 M. Stephens
 0
 278
 189
-0
+202
 J. Alsup
 1
 178
 177
-0
+159
 D. Merrill
 40
 149
 153
-0
+168
 D. Razzano
 16
 200
 186
-0
+182
 D. Boothe
 5
 212
 248
-0
+194
 B. Quandt
 16
 236
 208
-0
+148

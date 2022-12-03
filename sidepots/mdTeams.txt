@@ -3,175 +3,175 @@ J. Alsup
 1
 178
 177
-0
+159
 M. Stephens
 0
 278
 189
-0
+202
 
 D. Merrill
 40
 149
 153
-0
+168
 D. Crumb
 0
 258
 248
-0
+235
 
 D. Dupree
 0
 224
 190
-0
+243
 M. Gritsavage
 21
 195
 236
-0
+236
 
 D. Merrill
 40
 149
 153
-0
+168
 J. Alsup
 1
 178
 177
-0
+159
 
 J. Buswell
 54
 182
 120
-0
+155
 D. Crumb
 0
 258
 248
-0
+235
 
 D. Razzano
 16
 200
 186
-0
+182
 J. Alsup
 1
 178
 177
-0
+159
 
 N. Chauvan
 19
 257
 182
-0
+203
 J. Buswell
 54
 182
 120
-0
+155
 
 C. Crumb
 20
 224
 179
-0
+175
 M. Ewing
 36
 180
 146
-0
+199
 
 C. Mincks
 0
 211
 195
-0
+185
 J. Alsup
 1
 178
 177
-0
+159
 
 A. Cochran
 29
 178
 193
-0
+202
 J. Forbes
 7
 194
 167
-0
+190
 
 T. Agnew
 0
 209
 180
-0
+180
 D. Proulx
 0
 219
 191
-0
+230
 
 A. Cochran
 29
 178
 193
-0
+202
 D. Proulx
 0
 219
 191
-0
+230
 
 N. Chauvan
 19
 257
 182
-0
+203
 M. Gritsavage
 21
 195
 236
-0
+236
 
 C. Crumb
 20
 224
 179
-0
+175
 T. Agnew
 0
 209
 180
-0
+180
 
 D. Razzano
 16
 200
 186
-0
+182
 J. Forbes
 7
 194
 167
-0
+190
 
 D. Proulx
 0
 219
 191
-0
+230
 M. Ewing
 36
 180
 146
-0
+199
 
