@@ -10,15 +10,15 @@ GAME 1:
 <li>D. Merrill: 189</li>
 
 GAME 2:
-<li>J. Buswell: 54</li>
-<li>D. Merrill: 40</li>
-<li>C. Crumb: 20</li>
-<li>B. Quandt: 16</li>
-<li>D. Boothe: 5</li>
-<li>D. Proulx: 0</li>
-<li>D. Crumb: 0</li>
-<li>C. Mincks: 0</li>
-<li>M. Stephens: 0</li>
+<li>D. Boothe: 253</li>
+<li>D. Crumb: 248</li>
+<li>B. Quandt: 224</li>
+<li>C. Crumb: 199</li>
+<li>C. Mincks: 195</li>
+<li>D. Merrill: 193</li>
+<li>D. Proulx: 191</li>
+<li>M. Stephens: 189</li>
+<li>J. Buswell: 174</li>
 
 GAME 3:
 <li>J. Buswell: 54</li>
@@ -26,7 +26,7 @@ GAME 3:
 <li>C. Crumb: 20</li>
 <li>B. Quandt: 16</li>
 <li>D. Boothe: 5</li>
-<li>D. Proulx: 0</li>
 <li>D. Crumb: 0</li>
-<li>C. Mincks: 0</li>
+<li>D. Proulx: 0</li>
 <li>M. Stephens: 0</li>
+<li>C. Mincks: 0</li>
