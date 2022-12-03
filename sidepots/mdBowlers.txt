@@ -1,141 +1,161 @@
-28
-M. Stephens
-5
-0
-0
-0
-M. Stephens
-5
-0
-0
-0
-M. Stephens
-5
-0
-0
-0
-A. Malozzi
+32
+M. Gritsavage
 21
 0
 0
 0
-J. Forbes
-16
+M. Gritsavage
+21
 0
 0
 0
-J. Forbes
-16
+T. Agnew
 0
 0
 0
-J. Bruno
-34
+0
+T. Agnew
 0
 0
 0
-J. Bruno
-34
+0
+N. Chauvan
+19
 0
 0
 0
-T. Rauschenberg
-38
+N. Chauvan
+19
 0
 0
 0
-T. Rauschenberg
-38
+M. Ewing
+36
 0
 0
 0
-T. Rauschenberg
-38
+M. Ewing
+36
 0
 0
 0
-T. Rauschenberg
-38
+A. Cochran
+29
 0
 0
 0
-C. Pullen
-51
+A. Cochran
+29
 0
 0
 0
-C. Pullen
-51
+D. Dupree
 0
 0
 0
-J. Townsell
-16
+0
+C. Mincks
 0
 0
 0
-J. Townsell
-16
 0
-0
-0
-N. Townsell
+J. Buswell
 54
 0
 0
 0
-N. Townsell
+J. Buswell
 54
 0
 0
 0
-E. Thorn
-46
+J. Forbes
+7
 0
 0
 0
-E. Thorn
-46
-0
-0
-0
-E. Thorn
-46
-0
-0
-0
-E. Thorn
-46
-0
-0
-0
-Z. Bullock
-45
-0
-0
-0
-Z. Bullock
-45
+J. Forbes
+7
 0
 0
 0
 D. Crumb
-10
+0
 0
 0
 0
 D. Crumb
-10
 0
-0
-0
-C. Crumb
-30
 0
 0
 0
 C. Crumb
-30
+20
+0
+0
+0
+C. Crumb
+20
+0
+0
+0
+D. Proulx
+0
+0
+0
+0
+D. Proulx
+0
+0
+0
+0
+D. Proulx
+0
+0
+0
+0
+M. Stephens
+0
+0
+0
+0
+J. Alsup
+1
+0
+0
+0
+J. Alsup
+1
+0
+0
+0
+J. Alsup
+1
+0
+0
+0
+J. Alsup
+1
+0
+0
+0
+D. Merrill
+40
+0
+0
+0
+D. Merrill
+40
+0
+0
+0
+D. Razzano
+16
+0
+0
+0
+D. Razzano
+16
 0
 0
 0

@@ -1,33 +1,26 @@
 GAME 1:
-<li>C. Crumb: 278</li>
-<li>K. Moore: 271</li>
-<li>A. Morgan: 263</li>
-<li>B. Quandt: 263</li>
-<li>D. Crumb: 254</li>
-<li>J. Forbes: 252</li>
-<li>T. McCall: 239</li>
+<li>M. Stephens: 278</li>
+<li>D. Crumb: 258</li>
+<li>B. Quandt: 252</li>
+<li>C. Crumb: 244</li>
+<li>J. Buswell: 236</li>
 --------------------------------------
-<li>T. Rauschenberg: 237</li>
-<li>T. Owens: 226</li>
-<li>Z. Bullock: 221</li>
-<li>M. Stephens: 218</li>
-<li>J. Townsell: 191</li>
-<li>S. Samford: 185</li>
-<li>R. Abel: 185</li>
+<li>N. Carrizales: 229</li>
+<li>D. Proulx: 219</li>
+<li>C. Mincks: 211</li>
+<li>J. Forbes: 201</li>
+<li>D. Merrill: 189</li>
 
 GAME 2:
-<li>B. Quandt: 222</li>
-<li>A. Morgan: 220</li>
-<li>J. Forbes: 213</li>
-<li>K. Moore: 208</li>
+<li>J. Buswell: 54</li>
+<li>C. Crumb: 20</li>
+<li>B. Quandt: 16</li>
 --------------------------------------
-<li>C. Crumb: 198</li>
-<li>T. McCall: 187</li>
-<li>D. Crumb: 179</li>
+<li>D. Crumb: 0</li>
+<li>M. Stephens: 0</li>
 
 GAME 3:
-<li>A. Morgan: 274</li>
-<li>B. Quandt: 230</li>
-<li>J. Forbes: 216</li>
+<li>J. Buswell: 54</li>
+<li>C. Crumb: 20</li>
 --------------------------------------
-<li>K. Moore: 203</li>
+<li>B. Quandt: 16</li>

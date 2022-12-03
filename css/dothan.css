@@ -1,0 +1,28 @@
+.squad-list {
+  margin-top: 40px;
+}
+
+.squad-list a {
+  display: block;
+  font-size: 20px;
+  padding: 10px;
+}
+
+#date {
+  font-size: 28px;
+  text-decoration: underline;
+}
+
+.elim h2, .hg h2, .md h2 {
+  font-size: 25px;
+  text-decoration: underline;
+
+}
+
+.elim h4, .hg h4, .md h4 {
+  font-size: 22px;
+}
+
+.elim p, .elim ol, .hg p, .hg ol, .md p, .md ol {
+  font-size: 18px;
+}

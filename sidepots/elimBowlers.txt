@@ -1,71 +1,51 @@
-14
-M. Stephens
-5
-213
-258
-225
-T. Owens
-36
-190
-194
-203
-S. Samford
-15
-170
-233
-188
-J. Forbes
-16
-236
-197
-200
-T. Rauschenberg
-38
-199
-181
-220
-J. Townsell
-16
-175
-280
-169
-T. McCall
-71
-168
-116
-154
-B. Quandt
-28
-235
-194
-202
-K. Moore
-35
-236
-173
-168
-Z. Bullock
-45
-176
-226
-235
-A. Morgan
-72
-191
-148
-202
-R. Abel
-30
-155
-181
-144
-D. Crumb
 10
-244
-169
-205
+N. Carrizales
+23
+206
+0
+0
+C. Mincks
+0
+211
+0
+0
+J. Buswell
+54
+182
+0
+0
+J. Forbes
+7
+194
+0
+0
+D. Crumb
+0
+258
+0
+0
 C. Crumb
-30
-248
-168
-244
+20
+224
+0
+0
+D. Proulx
+0
+219
+0
+0
+M. Stephens
+0
+278
+0
+0
+D. Merrill
+40
+149
+0
+0
+B. Quandt
+16
+236
+0
+0

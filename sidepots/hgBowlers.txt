@@ -1,31 +1,46 @@
-6
-M. Stephens
-5
-213
-258
-225
-T. Rauschenberg
-38
-199
-181
-220
-K. Moore
-35
-236
-173
-168
-Z. Bullock
-45
-176
-226
-235
+9
+C. Mincks
+0
+211
+0
+0
+J. Buswell
+54
+182
+0
+0
 D. Crumb
-10
-244
-169
-205
+0
+258
+0
+0
 C. Crumb
-30
-248
-168
-244
+20
+224
+0
+0
+D. Proulx
+0
+219
+0
+0
+M. Stephens
+0
+278
+0
+0
+D. Merrill
+40
+149
+0
+0
+D. Boothe
+5
+212
+0
+0
+B. Quandt
+16
+236
+0
+0
