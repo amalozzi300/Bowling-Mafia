@@ -15,9 +15,9 @@ GAME 2:
 <li>D. Crumb: 179</li>
 
 GAME 3:
-<li>Z. Bullock: 45</li>
-<li>T. Rauschenberg: 38</li>
-<li>K. Moore: 35</li>
-<li>C. Crumb: 30</li>
-<li>D. Crumb: 10</li>
-<li>M. Stephens: 5</li>
+<li>Z. Bullock: 280</li>
+<li>C. Crumb: 274</li>
+<li>T. Rauschenberg: 258</li>
+<li>M. Stephens: 230</li>
+<li>D. Crumb: 215</li>
+<li>K. Moore: 203</li>

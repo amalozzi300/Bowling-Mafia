@@ -3,153 +3,153 @@ E. Thorn
 46
 192
 172
-0
+183
 T. Rauschenberg
 38
 199
 181
-0
+220
 
 E. Thorn
 46
 192
 172
-0
+183
 D. Crumb
 10
 244
 169
-0
+205
 
 N. Townsell
 54
 134
 152
-0
+171
 E. Thorn
 46
 192
 172
-0
+183
 
 Z. Bullock
 45
 176
 226
-0
+235
 M. Stephens
 5
 213
 258
-0
+225
 
 C. Pullen
 51
 166
 188
-0
+150
 N. Townsell
 54
 134
 152
-0
+171
 
 J. Forbes
 16
 236
 197
-0
+200
 J. Bruno
 34
 147
 180
-0
+159
 
 J. Townsell
 16
 175
 280
-0
+169
 C. Crumb
 30
 248
 168
-0
+244
 
 C. Pullen
 51
 166
 188
-0
+150
 C. Crumb
 30
 248
 168
-0
+244
 
 J. Townsell
 16
 175
 280
-0
+169
 J. Bruno
 34
 147
 180
-0
+159
 
 D. Crumb
 10
 244
 169
-0
+205
 J. Forbes
 16
 236
 197
-0
+200
 
 M. Stephens
 5
 213
 258
-0
+225
 T. Rauschenberg
 38
 199
 181
-0
+220
 
 T. Rauschenberg
 38
 199
 181
-0
+220
 Z. Bullock
 45
 176
 226
-0
+235
 
 T. Rauschenberg
 38
 199
 181
-0
+220
 A. Malozzi
 21
 213
 185
-0
+199
 
 M. Stephens
 5
 213
 258
-0
+225
 E. Thorn
 46
 192
 172
-0
+183
 

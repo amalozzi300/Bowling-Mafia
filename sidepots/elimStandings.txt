@@ -26,8 +26,8 @@ GAME 2:
 <li>D. Crumb: 179</li>
 
 GAME 3:
-<li>A. Morgan: 72</li>
-<li>K. Moore: 35</li>
-<li>B. Quandt: 28</li>
+<li>A. Morgan: 274</li>
+<li>B. Quandt: 230</li>
+<li>J. Forbes: 216</li>
 --------------------------------------
-<li>J. Forbes: 16</li>
+<li>K. Moore: 203</li>

@@ -3,94 +3,94 @@ M. Stephens
 5
 213
 258
-0
+225
 A. Malozzi
 21
 213
 185
-0
+199
 T. Owens
 36
 190
 194
-0
+203
 S. Samford
 15
 170
 233
-0
+188
 J. Forbes
 16
 236
 197
-0
+200
 J. Bruno
 34
 147
 180
-0
+159
 T. Rauschenberg
 38
 199
 181
-0
+220
 C. Pullen
 51
 166
 188
-0
+150
 J. Townsell
 16
 175
 280
-0
+169
 N. Townsell
 54
 134
 152
-0
+171
 T. McCall
 71
 168
 116
-0
+154
 B. Quandt
 28
 235
 194
-0
+202
 E. Thorn
 46
 192
 172
-0
+183
 K. Moore
 35
 236
 173
-0
+168
 Z. Bullock
 45
 176
 226
-0
+235
 A. Morgan
 72
 191
 148
-0
+202
 R. Abel
 30
 155
 181
-0
+144
 D. Crumb
 10
 244
 169
-0
+205
 C. Crumb
 30
 248
 168
-0
+244

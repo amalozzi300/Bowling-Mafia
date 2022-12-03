@@ -12,6 +12,16 @@
   margin: 5px;
 }
 
+.dothan h4 {
+  font-size: 22px;
+}
+
+.dothan a {
+  text-decoration: none;
+  border: 2px solid yellow;
+  padding: 5px;
+}
+
 .update-box p {
   font-size: 18px;
 }

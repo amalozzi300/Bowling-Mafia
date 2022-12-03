@@ -26,6 +26,8 @@ elif numBowlers < 31:
 else:
   numPaid = 5
 
+cutScore = 0
+
 for i in range(numBowlers):
   name = input()
   hdcp = int(input())
@@ -43,6 +45,14 @@ for i in range(numBowlers):
       temp = bowlers[i]
       bowlers[i] = bowlers[j]
       bowlers[j] = temp
+
+cutScore = (bowlers[int(g1Cut - 1)].g1 + bowlers[int(g1Cut - 1)].hdcp)
+
+for i in range(int(g1Cut), numBowlers):
+  if (bowlers[i].g1 + bowlers[i].hdcp) == cutScore:
+    g1Cut += 1
+  else:
+    break
 
 for i in range(numBowlers):
   bowlers[i].g1Format()
@@ -62,6 +72,14 @@ for i in range(len(firstAdvancers)):
       temp = firstAdvancers[i]
       firstAdvancers[i] = firstAdvancers[j]
       firstAdvancers[j] = temp
+
+cutScore = (firstAdvancers[int(g2Cut - 1)].g2 + firstAdvancers[int(g2Cut - 1)].hdcp)
+
+for i in range(int(g2Cut), len(firstAdvancers)):
+  if (firstAdvancers[i].g2 + firstAdvancers[i].hdcp) == cutScore:
+    g2Cut += 1
+  else:
+    break
 
 for i in range(len(firstAdvancers)):
   firstAdvancers[i].g2Format()
