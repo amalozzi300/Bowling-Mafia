@@ -2,50 +2,50 @@
 M. DeKeyser
 28
 185
-0
-0
+202
+134
 M. Miller
 9
 160
-0
-0
+214
+201
 D. Boothe
 5
 172
-0
-0
+254
+196
 B. Quandt
 18
 225
-0
-0
+203
+196
 D. Proulx
 0
 205
-0
-0
+223
+176
 M. Stephens
 0
 210
-0
-0
+224
+190
 B. Tramel
 18
 188
-0
-0
-C. Minck
+235
+185
+C. Mincks
 0
 247
-0
-0
+209
+189
 F. DeGeorge
 4
 259
-0
-0
+233
+186
 D. Dupree
 0
 237
-0
-0
+266
+227

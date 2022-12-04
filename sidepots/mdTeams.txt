@@ -1,232 +1,232 @@
 21
-E. Thorn
-27
-189
-0
-0
+M. DeKeyser
+28
+185
+202
+134
 D. Proulx
 0
 205
-0
-0
+223
+176
 
-M. Stephens
-0
-210
-0
-0
-M. DeKeyser
-28
-185
-0
-0
-
-T. Agnew
-0
-246
-0
-0
-D. Dupree
-0
-237
-0
-0
-
-R. McManus
-25
-216
-0
-0
-N. Chauvin
-19
-205
-0
-0
-
-M. DeKeyser
-28
-185
-0
-0
 W. Harris
 9
 224
-0
-0
+268
+201
+B. Allen
+25
+221
+187
+126
 
 B. Tramel
 18
 188
+235
+185
+M. Stephens
 0
+210
+224
+190
+
+M. DeKeyser
+28
+185
+202
+134
+M. Gritsavage
+21
+205
+169
+212
+
+B. Tramel
+18
+188
+235
+185
+D. Dupree
 0
-B. Allen
-25
-221
+237
+266
+227
+
+M. Miller
+9
+160
+214
+201
+N. Carrizales
+23
+127
+189
+208
+
+C. Mincks
 0
-0
+247
+209
+189
+E. Thorn
+27
+189
+154
+150
 
 M. Ewing
 38
 186
-0
-0
+162
+203
 M. Gritsavage
 21
 205
+169
+212
+
+M. DeKeyser
+28
+185
+202
+134
+B. Allen
+25
+221
+187
+126
+
+M. Ewing
+38
+186
+162
+203
+W. Harris
+9
+224
+268
+201
+
+B. Tramel
+18
+188
+235
+185
+T. Agnew
 0
+246
+129
+205
+
+M. DeKeyser
+28
+185
+202
+134
+B. Tramel
+18
+188
+235
+185
+
+D. Proulx
 0
+205
+223
+176
+M. Stephens
+0
+210
+224
+190
 
 C. Clark
 31
 202
-0
-0
-M. Ewing
-38
-186
-0
-0
-
-N. Carrizales
-23
-127
-0
-0
-B. Tramel
-18
-188
-0
-0
-
+207
+222
 M. DeKeyser
 28
 185
-0
-0
-C. Minck
-0
-247
-0
-0
-
-B. Tramel
-18
-188
-0
-0
-T. Agnew
-0
-246
-0
-0
-
-E. Thorn
-27
-189
-0
-0
-M. Stephens
-0
-210
-0
-0
-
-M. DeKeyser
-28
-185
-0
-0
-N. Carrizales
-23
-127
-0
-0
-
-M. Miller
-9
-160
-0
-0
-M. DeKeyser
-28
-185
-0
-0
-
-B. Tramel
-18
-188
-0
-0
-M. DeKeyser
-28
-185
-0
-0
-
-D. Proulx
-0
-205
-0
-0
-M. Gritsavage
-21
-205
-0
-0
-
-M. Miller
-9
-160
-0
-0
-B. Allen
-25
-221
-0
-0
+202
+134
 
 N. Chauvin
 19
 205
+150
+170
+E. Thorn
+27
+189
+154
+150
+
+T. Agnew
 0
-0
+246
+129
+205
 M. DeKeyser
 28
 185
-0
-0
+202
+134
 
-M. DeKeyser
-28
+B. Tramel
+18
+188
+235
 185
-0
-0
-F. DeGeorge
-4
-259
-0
-0
-
 D. Proulx
 0
 205
-0
-0
-B. Tramel
-18
-188
-0
-0
+223
+176
+
+M. DeKeyser
+28
+185
+202
+134
+M. Miller
+9
+160
+214
+201
 
 B. Tramel
 18
 188
-0
-0
-W. Harris
-9
-224
-0
-0
+235
+185
+N. Chauvin
+19
+205
+150
+170
+
+M. DeKeyser
+28
+185
+202
+134
+F. DeGeorge
+4
+259
+233
+186
+
+N. Carrizales
+23
+127
+189
+208
+R. McManus
+25
+216
+185
+203
 

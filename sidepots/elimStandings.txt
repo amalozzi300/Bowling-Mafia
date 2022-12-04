@@ -1,6 +1,6 @@
 GAME 1:
 <li>F. DeGeorge: 263</li>
-<li>C. Minck: 247</li>
+<li>C. Mincks: 247</li>
 <li>B. Quandt: 243</li>
 <li>R. McManus: 241</li>
 <li>D. Dupree: 237</li>
@@ -14,16 +14,16 @@ GAME 1:
 <li>M. Miller: 169</li>
 
 GAME 2:
-<li>C. Clark: 31</li>
-<li>R. McManus: 25</li>
-<li>B. Quandt: 18</li>
+<li>D. Dupree: 266</li>
+<li>C. Clark: 238</li>
+<li>F. DeGeorge: 237</li>
 --------------------------------------
-<li>F. DeGeorge: 4</li>
-<li>D. Dupree: 0</li>
-<li>C. Minck: 0</li>
+<li>B. Quandt: 221</li>
+<li>R. McManus: 210</li>
+<li>C. Mincks: 209</li>
 
 GAME 3:
-<li>C. Clark: 31</li>
-<li>R. McManus: 25</li>
-<li>B. Quandt: 18</li>
+<li>C. Clark: 253</li>
+<li>D. Dupree: 227</li>
+<li>F. DeGeorge: 190</li>
 --------------------------------------
