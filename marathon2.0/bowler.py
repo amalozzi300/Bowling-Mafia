@@ -22,9 +22,10 @@ class Bowler:
     return self.Total() < bowler1.Total()
 
   def __str__(self):
-    return f'{self.name}\t\t{self.hdcp}\t\t{self.g1}\t{self.g2}\t{self.g3}\t{self.g4}\t{self.g5}\t{self.g6}\t--\t{self.Total()}'
+    newName = self.name.rstrip(self.name[-1])
+    return f'{newName}\t\t{self.hdcp}\t\t{self.g1}\t\t{self.g2}\t\t{self.g3}\t\t{self.g4}\t\t{self.g5}\t\t{self.g6}\t--\t{self.Total()}'
 
-  def PrintBowler(self):
+  def printBowler(self):
     return f'{self.name}{self.hdcp}\n{self.g1}\n{self.g2}\n{self.g3}\n{self.g4}\n{self.g5}\n{self.g6}'
 
   def Total(self):
