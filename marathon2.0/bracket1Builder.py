@@ -34,11 +34,11 @@ for i in range(1, len(pairs)):
       for k in range(len(b)):
         if p[0] == b[k] or p[1] == b[k]:
           inB = True
-  
-    if not inB:
-      b.append(p[0])
-      b.append(p[1])
-      added = True
+      
+      if not inB:
+        b.append(p[0])
+        b.append(p[1])
+        added = True
 
   if not added:
     brackets.append([p[0], p[1]])
