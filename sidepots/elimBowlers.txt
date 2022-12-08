@@ -2,80 +2,80 @@
 T. Rauschenberg
 37
 227
-0
+170
 0
 D. Crumb
 12
 225
-0
+169
 0
 W. Worden
 40
 140
-0
+142
 0
 Z. Bullock
 45
 183
-0
+189
 0
 B. Quandt
 27
 203
-0
+239
 0
 D. Merrill
 51
 142
-0
+187
 0
 J. Townsell
 17
 203
-0
+267
 0
 T. McCall
 72
 145
-0
+158
 0
 S. Sanford
 16
 161
-0
+247
 0
 A. Morgan
 70
 169
-0
+149
 0
 JP Morgan
 60
 178
-0
+215
 0
 M. Stephens
 5
 278
-0
+233
 0
 C. Auerbach
 5
 231
-0
+202
 0
 T. Owens
 36
 186
-0
+186
 0
 J. Besley
 56
 152
-0
+223
 0
 M. Rising Sr.
 17
 150
-0
+198
 0

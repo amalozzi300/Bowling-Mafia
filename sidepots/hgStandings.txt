@@ -13,18 +13,18 @@ GAME 1:
 <li>S. Sanford: 177</li>
 
 GAME 2:
-<li>T. McCall: 72</li>
-<li>J. Besley: 56</li>
-<li>D. Merrill: 51</li>
-<li>Z. Bullock: 45</li>
-<li>A. Perruzzi: 42</li>
-<li>W. Worden: 40</li>
-<li>T. Rauschenberg: 37</li>
-<li>T. Owens: 36</li>
-<li>S. Sanford: 16</li>
-<li>D. Crumb: 12</li>
-<li>M. Stephens: 5</li>
-<li>D. Washington: 4</li>
+<li>J. Besley: 279</li>
+<li>S. Sanford: 263</li>
+<li>D. Merrill: 238</li>
+<li>M. Stephens: 238</li>
+<li>Z. Bullock: 234</li>
+<li>A. Perruzzi: 232</li>
+<li>T. McCall: 230</li>
+<li>T. Owens: 222</li>
+<li>D. Washington: 215</li>
+<li>T. Rauschenberg: 207</li>
+<li>W. Worden: 182</li>
+<li>D. Crumb: 181</li>
 
 GAME 3:
 <li>T. McCall: 72</li>

@@ -18,19 +18,19 @@ GAME 1:
 <li>M. Rising Sr.: 167</li>
 
 GAME 2:
-<li>A. Morgan: 70</li>
-<li>JP Morgan: 60</li>
-<li>Z. Bullock: 45</li>
-<li>T. Rauschenberg: 37</li>
+<li>JP Morgan: 275</li>
+<li>B. Quandt: 266</li>
+<li>M. Stephens: 238</li>
+<li>Z. Bullock: 234</li>
 --------------------------------------
-<li>B. Quandt: 27</li>
-<li>D. Crumb: 12</li>
-<li>M. Stephens: 5</li>
-<li>C. Auerbach: 5</li>
+<li>A. Morgan: 219</li>
+<li>T. Rauschenberg: 207</li>
+<li>C. Auerbach: 207</li>
+<li>D. Crumb: 181</li>
 
 GAME 3:
-<li>A. Morgan: 70</li>
 <li>JP Morgan: 60</li>
 <li>Z. Bullock: 45</li>
+<li>B. Quandt: 27</li>
 --------------------------------------
-<li>T. Rauschenberg: 37</li>
+<li>M. Stephens: 5</li>
