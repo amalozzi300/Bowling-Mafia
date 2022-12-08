@@ -1,29 +1,36 @@
 GAME 1:
-<li>F. DeGeorge: 263</li>
-<li>C. Mincks: 247</li>
-<li>B. Quandt: 243</li>
-<li>R. McManus: 241</li>
-<li>D. Dupree: 237</li>
-<li>C. Clark: 233</li>
+<li>M. Stephens: 283</li>
+<li>T. Rauschenberg: 264</li>
+<li>A. Morgan: 239</li>
+<li>JP Morgan: 238</li>
+<li>D. Crumb: 237</li>
+<li>C. Auerbach: 236</li>
+<li>B. Quandt: 230</li>
+<li>Z. Bullock: 228</li>
 --------------------------------------
-<li>M. DeKeyser: 213</li>
-<li>M. Stephens: 210</li>
-<li>B. Tramel: 206</li>
-<li>D. Proulx: 205</li>
-<li>D. Boothe: 177</li>
-<li>M. Miller: 169</li>
+<li>T. Owens: 222</li>
+<li>J. Townsell: 220</li>
+<li>T. McCall: 217</li>
+<li>J. Besley: 208</li>
+<li>D. Merrill: 193</li>
+<li>W. Worden: 180</li>
+<li>S. Sanford: 177</li>
+<li>M. Rising Sr.: 167</li>
 
 GAME 2:
-<li>D. Dupree: 266</li>
-<li>C. Clark: 238</li>
-<li>F. DeGeorge: 237</li>
+<li>A. Morgan: 70</li>
+<li>JP Morgan: 60</li>
+<li>Z. Bullock: 45</li>
+<li>T. Rauschenberg: 37</li>
 --------------------------------------
-<li>B. Quandt: 221</li>
-<li>R. McManus: 210</li>
-<li>C. Mincks: 209</li>
+<li>B. Quandt: 27</li>
+<li>D. Crumb: 12</li>
+<li>M. Stephens: 5</li>
+<li>C. Auerbach: 5</li>
 
 GAME 3:
-<li>C. Clark: 253</li>
-<li>D. Dupree: 227</li>
-<li>F. DeGeorge: 190</li>
+<li>A. Morgan: 70</li>
+<li>JP Morgan: 60</li>
+<li>Z. Bullock: 45</li>
 --------------------------------------
+<li>T. Rauschenberg: 37</li>

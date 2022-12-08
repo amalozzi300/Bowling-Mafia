@@ -1,51 +1,61 @@
-10
-M. DeKeyser
-28
-185
-202
-134
-M. Miller
-9
-160
-214
-201
-D. Boothe
-5
-172
-254
-196
-B. Quandt
-18
-225
-203
-196
-D. Proulx
-0
-205
-223
-176
-M. Stephens
-0
-210
-224
-190
-B. Tramel
-18
-188
-235
-185
-C. Mincks
-0
-247
-209
-189
-F. DeGeorge
-4
-259
-233
-186
-D. Dupree
-0
-237
-266
+12
+T. Rauschenberg
+37
 227
+0
+0
+A. Perruzzi
+42
+213
+0
+0
+D. Crumb
+12
+225
+0
+0
+D. Washington
+4
+248
+0
+0
+W. Worden
+40
+140
+0
+0
+Z. Bullock
+45
+183
+0
+0
+D. Merrill
+51
+142
+0
+0
+T. McCall
+72
+145
+0
+0
+S. Sanford
+16
+161
+0
+0
+M. Stephens
+5
+278
+0
+0
+T. Owens
+36
+186
+0
+0
+J. Besley
+56
+152
+0
+0

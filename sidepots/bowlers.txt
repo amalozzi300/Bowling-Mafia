@@ -1,101 +1,106 @@
-20
-M. DeKeyser
-28
+21
+T. Rauschenberg
+37
 1
 1
-8
-R. McManus
-25
+4
+A. Perruzzi
+42
+0
 1
 0
+D. Crumb
+12
+1
+1
+4
+D. Washington
+4
+0
+1
+1
+W. Worden
+40
+1
+1
+0
+Z. Bullock
+45
+1
+1
+2
+B. Quandt
+27
+1
+0
+0
+D. Merrill
+51
+1
+1
 1
 E. Thorn
-27
+45
 0
 0
 2
-M. Miller
-9
+N. Townsell
+55
+0
+0
+2
+J. Townsell
+17
+1
+0
+2
+T. McCall
+72
 1
 1
 2
-D. Boothe
+S. Sanford
+16
+1
+1
+0
+A. Morgan
+70
+1
+0
+0
+JP Morgan
+60
+1
+0
+0
+M. Stephens
 5
 1
 1
-0
-B. Quandt
-18
-1
-1
-0
-D. Proulx
-0
-1
-1
 3
-M. Stephens
-0
-1
-1
-2
-M. Ewing
-38
-0
-0
-2
-B. Tramel
-18
-1
-1
-6
-C. Clark
-31
+C. Auerbach
+5
 1
 0
-1
-T. Agnew
 0
-0
-0
-2
-M. Gritsavage
-21
-0
-0
-2
-N. Carrizales
-23
-0
-0
-2
-N. Chauvin
-19
-0
-0
-2
-B. Allen
-25
-0
-0
-2
-C. Mincks
-0
-1
-1
-1
-F. DeGeorge
-4
-1
-1
-1
-D. Dupree
-0
-1
-1
-1
-W. Harris
+D. Stewart
 9
 0
 0
-2
+1
+T. Owens
+36
+1
+1
+0
+J. Besley
+56
+1
+1
+0
+M. Rising Sr.
+17
+1
+0
+0

@@ -1,101 +1,106 @@
-20
-M. DeKeyser
-28
-185
-202
-134
-R. McManus
-25
-216
-185
-203
-E. Thorn
-27
-189
-154
-150
-M. Miller
-9
-160
-214
-201
-D. Boothe
-5
-172
-254
-196
-B. Quandt
-18
-225
-203
-196
-D. Proulx
-0
-205
-223
-176
-M. Stephens
-0
-210
-224
-190
-M. Ewing
-38
-186
-162
-203
-B. Tramel
-18
-188
-235
-185
-C. Clark
-31
-202
-207
-222
-T. Agnew
-0
-246
-129
-205
-M. Gritsavage
 21
-205
-169
-212
-N. Carrizales
-23
-127
-189
-208
-N. Chauvin
-19
-205
-150
-170
-B. Allen
-25
-221
-187
-126
-C. Mincks
-0
-247
-209
-189
-F. DeGeorge
-4
-259
-233
-186
-D. Dupree
-0
-237
-266
+T. Rauschenberg
+37
 227
-W. Harris
+0
+0
+A. Perruzzi
+42
+213
+0
+0
+D. Crumb
+12
+225
+0
+0
+D. Washington
+4
+248
+0
+0
+W. Worden
+40
+140
+0
+0
+Z. Bullock
+45
+183
+0
+0
+B. Quandt
+27
+203
+0
+0
+D. Merrill
+51
+142
+0
+0
+E. Thorn
+45
+174
+0
+0
+N. Townsell
+55
+158
+0
+0
+J. Townsell
+17
+203
+0
+0
+T. McCall
+72
+145
+0
+0
+S. Sanford
+16
+161
+0
+0
+A. Morgan
+70
+169
+0
+0
+JP Morgan
+60
+178
+0
+0
+M. Stephens
+5
+278
+0
+0
+C. Auerbach
+5
+231
+0
+0
+D. Stewart
 9
-224
-268
-201
+236
+0
+0
+T. Owens
+36
+186
+0
+0
+J. Besley
+56
+152
+0
+0
+M. Rising Sr.
+17
+150
+0
+0

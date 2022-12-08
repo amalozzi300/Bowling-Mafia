@@ -1,210 +1,120 @@
-42
-M. DeKeyser
-28
+24
+T. Rauschenberg
+37
 0
 0
 0
-M. DeKeyser
-28
+T. Rauschenberg
+37
 0
 0
 0
-M. DeKeyser
-28
+T. Rauschenberg
+37
 0
 0
 0
-M. DeKeyser
-28
+T. Rauschenberg
+37
 0
 0
 0
-M. DeKeyser
-28
+D. Crumb
+12
 0
 0
 0
-M. DeKeyser
-28
+D. Crumb
+12
 0
 0
 0
-M. DeKeyser
-28
+D. Crumb
+12
 0
 0
 0
-M. DeKeyser
-28
+D. Crumb
+12
 0
 0
 0
-R. McManus
-25
-0
-0
-0
-E. Thorn
-27
-0
-0
-0
-E. Thorn
-27
-0
-0
-0
-M. Miller
-9
-0
-0
-0
-M. Miller
-9
-0
-0
-0
-D. Proulx
-0
-0
-0
-0
-D. Proulx
-0
-0
-0
-0
-D. Proulx
-0
-0
-0
-0
-M. Stephens
-0
-0
-0
-0
-M. Stephens
-0
-0
-0
-0
-M. Ewing
-38
-0
-0
-0
-M. Ewing
-38
-0
-0
-0
-B. Tramel
-18
-0
-0
-0
-B. Tramel
-18
-0
-0
-0
-B. Tramel
-18
-0
-0
-0
-B. Tramel
-18
-0
-0
-0
-B. Tramel
-18
-0
-0
-0
-B. Tramel
-18
-0
-0
-0
-C. Clark
-31
-0
-0
-0
-T. Agnew
-0
-0
-0
-0
-T. Agnew
-0
-0
-0
-0
-M. Gritsavage
-21
-0
-0
-0
-M. Gritsavage
-21
-0
-0
-0
-N. Carrizales
-23
-0
-0
-0
-N. Carrizales
-23
-0
-0
-0
-N. Chauvin
-19
-0
-0
-0
-N. Chauvin
-19
-0
-0
-0
-B. Allen
-25
-0
-0
-0
-B. Allen
-25
-0
-0
-0
-C. Mincks
-0
-0
-0
-0
-F. DeGeorge
+D. Washington
 4
 0
 0
 0
-D. Dupree
+Z. Bullock
+45
 0
 0
 0
-0
-W. Harris
-9
-0
+Z. Bullock
+45
 0
 0
-W. Harris
+0
+D. Merrill
+51
+0
+0
+0
+E. Thorn
+45
+0
+0
+0
+E. Thorn
+45
+0
+0
+0
+N. Townsell
+55
+0
+0
+0
+N. Townsell
+55
+0
+0
+0
+J. Townsell
+17
+0
+0
+0
+J. Townsell
+17
+0
+0
+0
+T. McCall
+72
+0
+0
+0
+T. McCall
+72
+0
+0
+0
+M. Stephens
+5
+0
+0
+0
+M. Stephens
+5
+0
+0
+0
+M. Stephens
+5
+0
+0
+0
+D. Stewart
 9
 0
 0
