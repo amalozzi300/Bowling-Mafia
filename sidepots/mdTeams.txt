@@ -3,131 +3,131 @@ T. Rauschenberg
 37
 227
 170
-0
+188
 D. Crumb
 12
 225
 169
-0
+224
 
 T. Rauschenberg
 37
 227
 170
-0
+188
 Z. Bullock
 45
 183
 189
-0
+202
 
 T. Rauschenberg
 37
 227
 170
-0
+188
 D. Merrill
 51
 142
 187
-0
+153
 
 T. Rauschenberg
 37
 227
 170
-0
+188
 E. Thorn
 45
 174
 181
-0
+277
 
 D. Crumb
 12
 225
 169
-0
+224
 D. Washington
 4
 248
 211
-0
+246
 
 D. Crumb
 12
 225
 169
-0
+224
 Z. Bullock
 45
 183
 189
-0
+202
 
 D. Crumb
 12
 225
 169
-0
+224
 E. Thorn
 45
 174
 181
-0
+277
 
 M. Stephens
 5
 278
 233
-0
+214
 N. Townsell
 55
 158
 191
-0
+140
 
 M. Stephens
 5
 278
 233
-0
+214
 J. Townsell
 17
 203
 267
-0
+205
 
 M. Stephens
 5
 278
 233
-0
+214
 D. Stewart
 9
 236
 207
-0
+217
 
 N. Townsell
 55
 158
 191
-0
+140
 T. McCall
 72
 145
 158
-0
+143
 
 T. McCall
 72
 145
 158
-0
+143
 J. Townsell
 17
 203
 267
-0
+205
 

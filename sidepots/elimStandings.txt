@@ -29,8 +29,8 @@ GAME 2:
 <li>D. Crumb: 181</li>
 
 GAME 3:
-<li>JP Morgan: 60</li>
-<li>Z. Bullock: 45</li>
-<li>B. Quandt: 27</li>
+<li>Z. Bullock: 247</li>
+<li>JP Morgan: 243</li>
+<li>B. Quandt: 230</li>
 --------------------------------------
-<li>M. Stephens: 5</li>
+<li>M. Stephens: 219</li>
