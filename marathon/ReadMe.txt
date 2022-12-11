@@ -7,12 +7,7 @@
     7. run: ./sidepots.sh
     8. update standings and website
 
-
-
-- finish setup.py
-- finish scores.py
-- setup rand.py
-- setup elim files
-- setup hg files
-- setup md files
-- setup bracket files
+bowlers.txt:
+name
+hdcp
+md entries num

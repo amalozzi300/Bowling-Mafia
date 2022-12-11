@@ -1,6 +1,6 @@
 class Bowler:
   def __init__(self, name, hdcp = 0, g1 = 0, g2 = 0, g3 = 0, g4 = 0, g5 = 0, g6 = 0):
-    self.name = name
+    self.name = name.rstrip(name[-1])
     self.hdcp = hdcp
     self.g1 = g1
     self.g2 = g2
@@ -22,10 +22,10 @@ class Bowler:
     return self.Total() < bowler1.Total()
 
   def __str__(self):
-    return f'{self.name}\t\t{self.hdcp}\t\t{self.g1}\t{self.g2}\t{self.g3}\t{self.g4}\t{self.g5}\t{self.g6}\t--\t{self.Total()}'
+    return f'{self.name}\t\t{self.hdcp}\t\t{self.g1}\t\t{self.g2}\t\t{self.g3}\t\t{self.g4}\t\t{self.g5}\t\t{self.g6}\t--\t{self.Total()}'
 
-  def PrintBowler(self):
-    return f'{self.name}{self.hdcp}\n{self.g1}\n{self.g2}\n{self.g3}\n{self.g4}\n{self.g5}\n{self.g6}'
+  def printBowler(self):
+    return f'{self.name}\n{self.hdcp}\n{self.g1}\n{self.g2}\n{self.g3}\n{self.g4}\n{self.g5}\n{self.g6}'
 
   def Total(self):
     if self.g1 == 0:
@@ -60,6 +60,24 @@ class Bowler:
 
   def g6Less(self, bowler1):
     return(self.g6 + self.hdcp) < (bowler1.g6 + bowler1.hdcp)
+
+  def g1Equal(self, bowler1):
+    return (self.g1 + self.hdcp) == (bowler1.g1 + bowler1.hdcp)
+
+  def g2Equal(self, bowler1):
+    return (self.g2 + self.hdcp) == (bowler1.g2 + bowler1.hdcp)
+
+  def g3Equal(self, bowler1):
+    return (self.g3 + self.hdcp) == (bowler1.g3 + bowler1.hdcp)
+
+  def g4Equal(self, bowler1):
+    return (self.g4 + self.hdcp) == (bowler1.g4 + bowler1.hdcp)
+
+  def g5Equal(self, bowler1):
+    return(self.g5 + self.hdcp) == (bowler1.g5 + bowler1.hdcp)
+
+  def g6Equal(self, bowler1):
+    return(self.g6 + self.hdcp) == (bowler1.g6 + bowler1.hdcp)
 
   def g1Format(self):
     print(f'<li>{self.name}: {(self.g1 + self.hdcp)}</li>')
