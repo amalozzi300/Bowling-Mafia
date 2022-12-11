@@ -33,7 +33,11 @@ GAME 3:
 <li>D. Crumb: 236</li>
 <li>J. Besley: 234</li>
 <li>T. Rauschenberg: 225</li>
+<<<<<<< HEAD
 <li>A. Perruzzi: 221</li>
+=======
+<li>A. Perruzzi: 220</li>
+>>>>>>> a1ee4c7ee2604396c0f5b2f499d52ad2cedb4b69
 <li>M. Stephens: 219</li>
 <li>T. Owens: 216</li>
 <li>T. McCall: 215</li>

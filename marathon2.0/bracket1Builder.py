@@ -1,52 +1,68 @@
 import bowler as b
+import random
+import math
 
-pairs = []
+def MyRandom(numBracks):
+    return math.floor(random.random() * numBracks)
+
+bowlers = []
 brackets = []
+pairs = []
+unusedPairs = []
 
-f = open('bracket1Pairs.txt', 'r')
-numPairs = int(f.readline())
-for i in range(numPairs):
-  temp = f.readline()
-  name1 = f.readline()
-  hdcp1 = int(f.readline())
-  name2 = f.readline()
-  hdcp2 = int(f.readline())
-  b1 = b.Bowler(name1, hdcp1)
-  b2 = b.Bowler(name2, hdcp2)
-  p = [b1, b2]
-  pairs.append(p)
+f = open('bracket1Bowlers.txt', 'r')
+numBowlers = int(f.readline())
+for i in range(numBowlers):
+  name = f.readline()
+  hdcp = int(f.readline())
+  b1 = b.Bowler(name, hdcp)
+  bowlers.append(b1)
 f.close()
 
-print(pairs[0][0])
-print(pairs[0][1])
+numBracks = int(numBowlers / 8)
+if numBowlers & 8 != 0:
+  numBracks += 1
 
-brackets.append([pairs[0][0], pairs[0][1]])
+for i in range(numBracks):
+  brackets.append([])
 
-for i in range(1, len(pairs)):
-  p = pairs[i]
-  added = False
-  
-  for j in range(len(brackets)):
-    b = brackets[j]
+for b1 in bowlers:
+  inB = True
+
+  while inB:
+    randNum = MyRandom(numBracks)
     inB = False
 
-    if not added and len(b) != 8:
-      for k in range(len(b)):
-        if p[0] == b[k] or p[1] == b[k]:
-          inB = True
-      
-      if not inB:
-        b.append(p[0])
-        b.append(p[1])
-        added = True
+    for i in range(len(brackets[randNum])):
+      if b1 == brackets[randNum][i]:
+        inB = True
 
-  if not added:
-    brackets.append([p[0], p[1]])
+    if not inB:
+      brackets[randNum].append(b1)
 
+for br in brackets:
+  for i in range(len(br)):
+    if i % 2 == 0:
+      p = [br[i], br[i + 1]]
+
+      if len(pairs) == 0:
+        pairs.append(p)
+      else:
+        for j in range(len(pairs)):
+          if (p[0] == pairs[j][0] or p[0] == pairs[j][1]) and (p[1] == pairs[j][0] or p[1] == pairs[j][1]):
+            br.remove(p[0])
+            br.remove(p[1])
+            unusedPairs.append(p)
 
 f = open('bracket1.txt', 'w')
+f.write(str(numBracks) + '\n')
 for i in range(len(brackets)):
   for j in range(len(brackets[i])):
     f.write(str(brackets[i][j]) + '\n')
   f.write('\n\n')
+f.write('\n\n')
+for i in range(len(unusedPairs)):
+  f.write(str(pairs[i][0]) + '\n')
+  f.write(str(pairs[i][1]) + '\n')
+  f.write('\n')
 f.close()
