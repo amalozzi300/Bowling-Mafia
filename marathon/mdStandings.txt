@@ -1,8 +1,17 @@
-<li>Name8 + Name3: 511</li>
-<li>Name8 + Name5: 413</li>
-<li>Name4 + Name6: 410</li>
-<li>Name6 + Name1: 407</li>
-<li>Name5 + Name2: 407</li>
-<li>Name4 + Name3: 407</li>
-<li>Name7 + Name2: 309</li>
-<li>Name7 + Name1: 208</li>
+<li>M. Samuels + M. Fleischacker: 2179</li>
+<li>M. Fleischacker + W. Lippus: 2100</li>
+<li>M. Samuels + R. McManus: 2073</li>
+<li>M. Fleischacker + K. Goldfarb: 2060</li>
+<li>W. Lippus + M. Samuels: 2055</li>
+<li>M. Fleischacker + T. McCall: 2050</li>
+<li>Z. Bullock + D. Mercer: 2038</li>
+<li>Z. Bullock + J. Alsup: 2019</li>
+<li>T. Rauschenberg + M. Samuels: 2011</li>
+<li>D. Billiot + T. Shaw: 1992</li>
+<li>D. Billiot + J. Alsup: 1976</li>
+<li>T. Shaw + T. Rauschenberg: 1968</li>
+<li>W. Lippus + D. Billiot: 1941</li>
+<li>W. Lippus + Z. Bullock: 1925</li>
+<li>D. Billiot + Z. Bullock: 1915</li>
+<li>T. Rauschenberg + R. McManus: 1905</li>
+<li>D. Mercer + T. Rauschenberg: 1901</li>

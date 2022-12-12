@@ -1,33 +1,69 @@
-16
-Name1
+34
+Z. Bullock
+40
+Z. Bullock
+40
+Z. Bullock
+40
+Z. Bullock
+40
+T. Shaw
+74
+T. Shaw
+74
+M. Samuels
 1
-Name1
+M. Samuels
 1
-Name2
-2
-Name2
-2
-Name3
-3
-Name3
-3
-Name4
-4
-Name4
-4
-Name5
-5
-Name5
-5
-Name6
-6
-Name6
-6
-Name7
-7
-Name7
-7
-Name8
-8
-Name8
-8
+M. Samuels
+1
+M. Samuels
+1
+M. Fleischacker
+36
+M. Fleischacker
+36
+M. Fleischacker
+36
+M. Fleischacker
+36
+W. Lippus
+51
+W. Lippus
+51
+W. Lippus
+51
+W. Lippus
+51
+D. Billiot
+63
+D. Billiot
+63
+D. Billiot
+63
+D. Billiot
+63
+D. Mercer
+45
+D. Mercer
+45
+J. Alsup
+10
+J. Alsup
+10
+K. Goldfarb
+91
+R. McManus
+25
+R. McManus
+25
+T. Rauschenberg
+37
+T. Rauschenberg
+37
+T. Rauschenberg
+37
+T. Rauschenberg
+37
+T. McCall
+80
