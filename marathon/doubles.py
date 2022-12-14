@@ -24,7 +24,7 @@ for i in range(numTeams):
   g4 = int(f.readline())
   g5 = int(f.readline())
   g6 = int(f.readline())
-  b2 = b.Bowler(name, hdcp, g1, g2, g3)
+  b2 = b.Bowler(name, hdcp, g1, g2, g3, g4, g5, g6)
 
   teams.append(t.Team(b1, b2))
   temp = f.readline()
